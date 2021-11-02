@@ -130,7 +130,7 @@
 //   console.log('Odd number: ', i);
 // }
 
-console.log(10 % 3);
+// console.log(10 % 3);
 
 // const number = 10;
 
