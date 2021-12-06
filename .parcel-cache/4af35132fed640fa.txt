@@ -1,219 +1,4 @@
-16309
-82C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@swc\helpers\src\_jsx.js132732112500000000 0
-78C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\stealthy-require\lib132821744715512177 1
-88C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\highlight.js\scss\darcula.scss121436361000000000 0
-53C:\Users\Anton\Documents\GitHub\js-in-6-ours\Module 9132826561874661007 1
-100C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\stable\string\virtual\pad-start.js121436361000000000 0
-112C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract\2017\ValidateAndApplyPropertyDescriptor.js121436361000000000 0
-96C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-minify-gradients\dist\index.js121436361000000000 0
-96C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\caniuse-lite\data\features\css-grid.js121436361000000000 0
-96C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\uncss\node_modules\postcss\lib\root.js121436361000000000 0
-129C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-modules\node_modules\postcss-modules-local-by-default\README.md121436361000000000 0
-65C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\reusify132821744806584896 1
-94C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\jake\node_modules\has-flag\readme.md131593942790000000 0
-74C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\srcset\readme.md121436361000000000 0
-86C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@parcel\resolver-default\src132821744700723759 1
-75C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\mdn-data\index.js121436361000000000 0
-82C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\string_decoder\README.md121436361000000000 0
-98C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\domexception\lib\legacy-error-codes.json131471530860000000 0
-66C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\ecc-jsbn132821744806474935 1
-76C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\mime-types\LICENSE121436361000000000 0
-66C:\Users\Anton\Documents\GitHub\js-in-6-ours\exercises_module_5.js132794618455068519 0
-72C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\extend\LICENSE121436361000000000 0
-87C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\nullthrows\nullthrows.js.flow121436361000000000 0
-69C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\graceful-fs132821744811781914 1
-110C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\jsdom\lib\jsdom\living\nodes\HTMLFontElement-impl.js121436361000000000 0
-123C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@parcel\node-resolver-core\test\fixture\packages\source\source.js121436361000000000 0
-65C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\esutils132821744811911833 1
-63C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\slash132821744805545479 1
-96C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\uncss\node_modules\picocolors\types.ts121436361000000000 0
-92C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract\2016\CharacterRange.js121436361000000000 0
-59C:\Users\Anton\Documents\GitHub\js-in-6-ours\.gitattributes132766363869477431 0
-93C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\uri-js\dist\esnext\schemes\wss.d.ts121436361000000000 0
-95C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\highlight.js\styles\gruvbox-light.css121436361000000000 0
-71C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\is-resolvable132821744810822460 1
-92C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@babel\types\lib\asserts\generated132821744713973075 1
-96C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\features\symbol\unscopables.js121436361000000000 0
-96C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\crypto-browserify\test\random-bytes.js130909473450000000 0
-55C:\Users\Anton\Documents\GitHub\js-in-6-ours\.gitignore132821744974197321 0
-107C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\shorter-js\types\misc\isElementInScrollRange.d.ts121436361000000000 0
-49C:\Users\Anton\Documents\GitHub\js-in-6-ours\dist132832600680612571 1
-95C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\minimalistic-crypto-utils\.travis.yml131322715400000000 0
-77C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lodash\snakeCase.js121436361000000000 0
-79C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\node-forge\lib\des.js121436361000000000 0
-80C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\uglify-js\bin\uglifyjs121436361000000000 0
-106C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\source-map-support\browser-source-map-support.js121436361000000000 0
-76C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lodash\fp\first.js121436361000000000 0
-80C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\is-plain-obj\readme.md121436361000000000 0
-52C:\Users\Anton\Documents\GitHub\js-in-6-ours\.vscode132773913433159316 1
-79C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lodash\fp\toNumber.js121436361000000000 0
-79C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\parseurl\package.json132821744808733646 0
-71C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\sshpk\LICENSE130913301440000000 0
-68C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\nanoid\bin132821744726215543 1
-75C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lodash\fp\date.js121436361000000000 0
-94C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\is-number-object\.github\FUNDING.yml121436361000000000 0
-66C:\Users\Anton\Documents\GitHub\js-in-6-ours\exercises_module_4.js132790390654440000 0
-139C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\source-not-symlinked\dist.js121436361000000000 0
-114C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-modules-values\node_modules\postcss\CHANGELOG.md121436361000000000 0
-101C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\split2\node_modules\readable-stream\LICENSE121436361000000000 0
-77C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\ajv\lib\dotjs\if.js121436361000000000 0
-55C:\Users\Anton\Documents\GitHub\js-in-6-ours\codewar.js132821727638969087 0
-90C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\jsdom\lib\jsdom\living\traversal132821744745294596 1
-74C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\is-negative-zero132821744810842445 1
-64C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lodash132821744809992928 1
-89C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\stable\date\get-year.js121436361000000000 0
-115C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-modules-scope\node_modules\supports-color\license131408182550000000 0
-79C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lodash\sortedIndex.js121436361000000000 0
-75C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lodash\fp\prop.js121436361000000000 0
-77C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lodash\fp\unnest.js121436361000000000 0
-72C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lodash\pull.js121436361000000000 0
-85C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@babel\types\lib\converters132821744720209499 1
-128C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\uncss\node_modules\postcss-selector-parser\dist\selectors\container.js121436361000000000 0
-84C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\es\string\index.js121436361000000000 0
-64C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@types132821744773574693 1
-114C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@babel\highlight\node_modules\color-convert\package.json132821744799079178 0
-66C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\has-flag132821744811761920 1
-81C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\yaml\types\timestamp.js121436361000000000 0
-79C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-normalize-url132821744806774763 1
-81C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\path-browserify\LICENSE121436361000000000 0
-76C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\ieee754\index.d.ts121436361000000000 0
-81C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lodash\fp\startsWith.js121436361000000000 0
-84C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es6-object-assign\index.js131343386210000000 0
-97C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\uri-js\dist\esnext\schemes\https.js.map121436361000000000 0
-65C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\nan\doc132821744732622320 1
-67C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lilconfig132821744809992928 1
-73C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\.bin\cssesc.ps1132821744816024675 0
-59C:\Users\Anton\Documents\GitHub\js-in-6-ours\src\index.html132832601158601518 0
-95C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract\2020\BigInt\bitwiseAND.js121436361000000000 0
-79C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\path-key\package.json132821744808723652 0
-98C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\fast-glob\out\providers\filters\error.js121436361000000000 0
-85C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\es\string\strike.js121436361000000000 0
-73C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\htmlparser2\lib132821744733595143 1
-66C:\Users\Anton\Documents\GitHub\js-in-6-ours\exercises_module_3.js132785863400377856 0
-87C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\is-number-object\CHANGELOG.md121436361000000000 0
-111C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\msgpackr-extract\prebuilds\darwin-x64\node.abi72.node121436361000000000 0
-70C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\is-arguments132821744810902414 1
-92C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\es\number\virtual\index.js121436361000000000 0
-57C:\Users\Anton\Documents\GitHub\js-in-6-ours\interview.js132796329562354888 0
-83C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\ansi-escapes\package.json132821744804076333 0
-72C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\browserify-aes132821744803256776 1
-71C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lodash\set.js121436361000000000 0
-105C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lmdb-store\prebuilds\darwin-x64\node.abi72.node121436361000000000 0
-90C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract\2016\RegExpCreate.js121436361000000000 0
-80C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lodash\fp\camelCase.js121436361000000000 0
-85C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\nanoid\non-secure\index.cjs121436361000000000 0
-79C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\statuses\package.json132821744805235663 0
-67C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\is-string132821744810802468 1
-80C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@babel\core\src\config132821744721642210 1
-82C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\nanoid\index.browser.cjs121436361000000000 0
-103C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\http-proxy-middleware\dist\handlers\public.js121436361000000000 0
-114C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@parcel\core\test\fixtures\invalid-distpath\package.json121436361000000000 0
-118C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\bl\node_modules\readable-stream\lib\internal\streams\from.js121436361000000000 0
-84C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\svgo\plugins\removeDesc.js121436361000000000 0
-90C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\side-channel\.github\FUNDING.yml121436361000000000 0
-76C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\cssstyle\README.md121436361000000000 0
-88C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\uri-js\dist\es5\uri.all.min.js121436361000000000 0
-67C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\encodeurl132821744812051749 1
-111C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-selector-parser\dist\__tests__\nonstandard.js121436361000000000 0
-93C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\features\promise\finally.js121436361000000000 0
-79C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\nan\doc\converters.md131359036360000000 0
-108C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\globals\node_modules\type-fest\source\entries.d.ts121436361000000000 0
-105C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@babel\helper-compilation-targets\lib\pretty.js121012626000000000 0
-96C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\jsdom\lib\jsdom\living\helpers\text.js121436361000000000 0
-70C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\astral-regex132821744799189101 1
-114C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-modules-scope\node_modules\has-flag\package.json132821744807684246 0
-86C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\whatwg-mimetype\package.json132821744801747636 0
-99C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\caniuse-lite\data\features\typedarrays.js121436361000000000 0
-75C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\w3c-xmlserializer132821744801867577 1
-79C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss\lib\node.d.ts121436361000000000 0
-58C:\Users\Anton\Documents\GitHub\js-in-6-ours\js in 6 hours132832601010179701 1
-104C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@parcel\babel-ast-utils\test\fixtures\error.js121436361000000000 0
-89C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\minifill\src\Number.isFinite.js121436361000000000 0
-93C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lmdb-store\dependencies\lz4\lib\dll132821744730213323 1
-110C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\internals\object-get-own-property-symbols.js121436361000000000 0
-80C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\utils-merge\.npmignore131503400650000000 0
-90C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract\2016\ToUint8Clamp.js121436361000000000 0
-107C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\fast-url-parser\node_modules\punycode\punycode.js131029107950000000 0
-67C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\nth-check132821744808983504 1
-88C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@babel\core\lib\config\item.js121012626000000000 0
-77C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@parcel\workers\src132821744712533898 1
-96C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\stylehacks\dist\plugins\leadingStar.js121436361000000000 0
-104C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\jsdom\lib\jsdom\living\generated\ErrorEvent.js121436361000000000 0
-103C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\jsdom\lib\jsdom\living\generated\EventInit.js121436361000000000 0
-90C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-value-parser\lib\walk.js121436361000000000 0
-96C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\whatwg-url\lib\URLSearchParams-impl.js121436361000000000 0
-71C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\nan\README.md132725666240000000 0
-92C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-discard-overridden\LICENSE121436361000000000 0
-59C:\Users\Anton\Documents\GitHub\js-in-6-ours\lessons 1-2.js132771225333462774 0
-96C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\css-tree\lib\syntax\node\WhiteSpace.js121436361000000000 0
-86C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract\2018\ToLength.js121436361000000000 0
-79C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\querystring\Readme.md130069927080000000 0
-87C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract\2020\ToInteger.js121436361000000000 0
-77C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\mkdirp\package.json132821744808943525 0
-103C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\jsdom\lib\jsdom\living\generated\SVGNumber.js121436361000000000 0
-71C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\forever-agent132821744811851865 1
-92C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\es\typed-array\includes.js121436361000000000 0
-72C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\delayed-stream132821744812881285 1
-134C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-modules-extract-imports\node_modules\postcss\lib\css-syntax-error.js121436361000000000 0
-57C:\Users\Anton\Documents\GitHub\js-in-6-ours\lessons 7.js132787714949534746 0
-80C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\cssnano-preset-default132821744803176828 1
-93C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\terser\node_modules\source-map\dist132821744714602717 1
-105C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\string.prototype.trimend\test\implementation.js121436361000000000 0
-81C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract\2021\abs.js121436361000000000 0
-142C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-false\package.json121436361000000000 0
-71C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\ora\readme.md121436361000000000 0
-60C:\Users\Anton\Documents\GitHub\js-in-6-ours\lessons 9-10.js132799243164633376 0
-120C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@babel\helper-compilation-targets\node_modules\.bin\semver.ps1132821744815524922 0
-99C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\has-ansi\node_modules\ansi-regex\index.js131288365850000000 0
-70C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\ansi-escapes132821744804276204 1
-99C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\caniuse-lite\data\features\will-change.js121436361000000000 0
-80C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\neo-async\async.min.js121436361000000000 0
-76C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\ansi-regex\license121436361000000000 0
-89C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\caniuse-lite\data\regions\BW.js121436361000000000 0
-109C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\split2\node_modules\readable-stream\CONTRIBUTING.md121436361000000000 0
-100C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\features\typed-array\from-async.js121436361000000000 0
-66C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\statuses132821744805435548 1
-86C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\es\symbol\replace.js121436361000000000 0
-123C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-modules-extract-imports\node_modules\postcss\README-cn.md121436361000000000 0
-68C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\terser\bin132821744722091952 1
-107C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\jsdom\lib\jsdom\living\generated\HTMLLIElement.js121436361000000000 0
-55C:\Users\Anton\Documents\GitHub\js-in-6-ours\src\app.js132821745982310000 0
-104C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-selector-parser\dist\selectors\root.js121436361000000000 0
-69C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\psl\LICENSE121436361000000000 0
-90C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract\2021\IsExtensible.js121436361000000000 0
-57C:\Users\Anton\Documents\GitHub\js-in-6-ours\lessons-3.js132773280519700000 0
-135C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\hash-base\node_modules\readable-stream\lib\internal\streams\async_iterator.js121436361000000000 0
-85C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@babel\types\lib\index.d.ts121012626000000000 0
-82C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\node-gyp-build\README.md121436361000000000 0
-77C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\terser\node_modules132821744791473200 1
-84C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@parcel\cache\src\types.js121436361000000000 0
-72C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\pn\_promise.js130904510770000000 0
-126C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\uncss\node_modules\postcss-selector-parser\dist\__tests__\classes.js121436361000000000 0
-78C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\nan\doc\node_misc.md132319691410000000 0
-119C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-modules-scope\node_modules\postcss\lib\stringifier.js121436361000000000 0
-80C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\is-boolean-object\test132821744731293084 1
-53C:\Users\Anton\Documents\GitHub\js-in-6-ours\Module 7132804287587109041 1
-84C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lodash\_iteratorToArray.js121436361000000000 0
-80C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\whatwg-url\LICENSE.txt121436361000000000 0
-75C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\callsites\license121436361000000000 0
-80C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\svgo\lib\svgo\tools.js121436361000000000 0
-57C:\Users\Anton\Documents\GitHub\js-in-6-ours\lessons-4.js132778063136133144 0
-92C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\caniuse-lite\data\features\avif.js121436361000000000 0
-91C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\modules\es.regexp.exec.js121436361000000000 0
-104C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-merge-longhand\dist\lib\hasAllProps.js121436361000000000 0
-68C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\acorn-walk132821744799159128 1
-84C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\source-map\source-map.d.ts131369414910000000 0
-84C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\relateurl\lib\constants.js130516774050000000 0
-73C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\psl\dist\psl.js121436361000000000 0
-82C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lodash\fp\lastIndexOf.js121436361000000000 0
-81C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract\2021\Day.js121436361000000000 0
-78C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\is-unicode-supported132821744810782479 1
-74C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\cssesc\cssesc.js121436361000000000 0
-96C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract\2016\EnumerableOwnNames.js121436361000000000 0
-70C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\highlight.js132821744811022337 1
-56C:\Users\Anton\Documents\GitHub\js-in-6-ours\lessos-4.js132774070785470000 0
-68C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\prelude-ls132821744806664829 1
-80C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\node-forge\lib\hmac.js121436361000000000 0
+16357
 65C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@parcel132821744797240220 1
 91C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@babel\template\lib\formatters.js121012626000000000 0
 96C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@parcel\core\src\public\Environment.js121436361000000000 0
@@ -228,6 +13,122 @@
 87C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\process-nextick-args\index.js121436361000000000 0
 123C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lmdb-store\dependencies\lz4\lib\dll\example\fullbench-dll.vcxproj121436361000000000 0
 83C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\minimalistic-crypto-utils132821744809882998 1
+80C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\picomatch\CHANGELOG.md121436361000000000 0
+115C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\jsdom\lib\jsdom\living\generated\ProcessingInstruction.js121436361000000000 0
+88C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@nodelib\fs.walk\out\providers132821744721222443 1
+62C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\.bin132831978610874469 1
+103C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\bootstrap.native\src\components\tab-native.js121436361000000000 0
+98C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\modules\es.symbol.description.js121436361000000000 0
+81C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract\2021\Number132821744760509886 1
+70C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\cli-spinners132821744813031190 1
+77C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\.bin\esvalidate.cmd132821744816284522 0
+88C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\es\string\trim-left.js121436361000000000 0
+52C:\Users\Anton\Documents\GitHub\js-in-6-ours\Lessons132832608610504739 1
+74C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\timsort\index.js131138581980000000 0
+123C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@parcel\node-resolver-core\test\fixture\packages\source\source.js121436361000000000 0
+65C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\esutils132821744811911833 1
+63C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\slash132821744805545479 1
+96C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\uncss\node_modules\picocolors\types.ts121436361000000000 0
+92C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract\2016\CharacterRange.js121436361000000000 0
+59C:\Users\Anton\Documents\GitHub\js-in-6-ours\.gitattributes132766363869477431 0
+93C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\uri-js\dist\esnext\schemes\wss.d.ts121436361000000000 0
+95C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\highlight.js\styles\gruvbox-light.css121436361000000000 0
+71C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\is-resolvable132821744810822460 1
+92C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@babel\types\lib\asserts\generated132821744713973075 1
+96C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\features\symbol\unscopables.js121436361000000000 0
+96C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\crypto-browserify\test\random-bytes.js130909473450000000 0
+55C:\Users\Anton\Documents\GitHub\js-in-6-ours\.gitignore132821744974197321 0
+107C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\shorter-js\types\misc\isElementInScrollRange.d.ts121436361000000000 0
+49C:\Users\Anton\Documents\GitHub\js-in-6-ours\dist132832618886162323 1
+95C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\minimalistic-crypto-utils\.travis.yml131322715400000000 0
+77C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lodash\snakeCase.js121436361000000000 0
+79C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\node-forge\lib\des.js121436361000000000 0
+80C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\uglify-js\bin\uglifyjs121436361000000000 0
+106C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\source-map-support\browser-source-map-support.js121436361000000000 0
+76C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lodash\fp\first.js121436361000000000 0
+80C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\is-plain-obj\readme.md121436361000000000 0
+52C:\Users\Anton\Documents\GitHub\js-in-6-ours\.vscode132773913433159316 1
+85C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\public-encrypt\test\ec.priv121436361000000000 0
+83C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\minimist\example\parse.js121436361000000000 0
+77C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\aws-sign2\README.md131364977210000000 0
+70C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\tunnel-agent132821744804316180 1
+90C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\source-map-js\lib\source-node.js121436361000000000 0
+78C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\terser\lib\output.js121436361000000000 0
+110C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\msgpackr-extract\prebuilds\linux-x64\node.abi72.node121436361000000000 0
+69C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\timsort\src132821744714762624 1
+96C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\stable\instance\replace-all.js121436361000000000 0
+53C:\Users\Anton\Documents\GitHub\js-in-6-ours\codewars132832602864948435 1
+80C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@babel\helpers\LICENSE121012626000000000 0
+101C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\jsdom\lib\jsdom\living\helpers\traversal.js121436361000000000 0
+101C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-merge-longhand\dist\lib\parseWsc.js121436361000000000 0
+112C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-modules-values\node_modules\color-name\LICENSE130953959930000000 0
+102C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@parcel\fs-write-stream-atomic\test\basic.js121436361000000000 0
+114C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\uncss\node_modules\postcss-selector-parser\dist\index.js121436361000000000 0
+114C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\jsdom\lib\jsdom\living\nodes\WindowEventHandlers-impl.js121436361000000000 0
+100C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-modules-local-by-default\README.md130784037430000000 0
+108C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-modules-values\node_modules\supports-color132821744807844154 1
+69C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\imurmurhash132821744810922396 1
+100C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\caniuse-lite\data\features\magnetometer.js121436361000000000 0
+83C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-calc\package.json132821744803026916 0
+71C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\alphanum-sort132821744799179107 1
+99C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\fast-json-stable-stringify\test\nested.js121436361000000000 0
+81C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\braces\lib\constants.js121436361000000000 0
+99C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\stable\typed-array\int16-array.js121436361000000000 0
+95C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\terser\lib\compress\native-objects.js121436361000000000 0
+64C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@iarna132821744773234918 1
+94C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@babel\types\lib\validators\isVar.js121012626000000000 0
+82C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\shebang-command\index.js131190036810000000 0
+127C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\uncss\node_modules\postcss-selector-parser\dist\__tests__\comments.js121436361000000000 0
+85C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\object.assign\.editorconfig121436361000000000 0
+78C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lodash\_baseDelay.js121436361000000000 0
+86C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-selector-parser\dist132821744717171234 1
+72C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\is-typed-array132821744801927544 1
+78C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lodash\_mergeData.js121436361000000000 0
+97C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract\5\FromPropertyDescriptor.js121436361000000000 0
+110C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-selector-parser\postcss-selector-parser.d.ts121436361000000000 0
+91C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\htmlnano\docs\docs\040-presets.md121436361000000000 0
+115C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lmdb-store\dependencies\lmdb\libraries\liblmdb\mdb_load.c121436361000000000 0
+96C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\handlebars\lib\handlebars\exception.js121436361000000000 0
+57C:\Users\Anton\Documents\GitHub\js-in-6-ours\exersise 3-5132832608013104287 1
+92C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\es\number\virtual\index.js121436361000000000 0
+57C:\Users\Anton\Documents\GitHub\js-in-6-ours\interview.js132796329562354888 0
+83C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\ansi-escapes\package.json132821744804076333 0
+72C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\browserify-aes132821744803256776 1
+71C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lodash\set.js121436361000000000 0
+105C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lmdb-store\prebuilds\darwin-x64\node.abi72.node121436361000000000 0
+90C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract\2016\RegExpCreate.js121436361000000000 0
+80C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lodash\fp\camelCase.js121436361000000000 0
+85C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\nanoid\non-secure\index.cjs121436361000000000 0
+79C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\statuses\package.json132821744805235663 0
+67C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\is-string132821744810802468 1
+92C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\public-encrypt\test\pass.1024.priv121436361000000000 0
+90C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\uri-js\dist\esnext\schemes\ws.js121436361000000000 0
+71C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\psl\README.md121436361000000000 0
+79C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lodash\fp\assignIn.js121436361000000000 0
+88C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\stable\object\index.js121436361000000000 0
+54C:\Users\Anton\Documents\GitHub\js-in-6-ours\Module 11132832616466161872 1
+105C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\bootstrap.native\src\strings\dataBsContainer.js121436361000000000 0
+75C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\svgo\lib\style.js121436361000000000 0
+85C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\node-forge\lib\tlssocket.js121436361000000000 0
+57C:\Users\Anton\Documents\GitHub\js-in-6-ours\package.json132832618708839666 0
+91C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-discard-empty\LICENSE-MIT121436361000000000 0
+53C:\Users\Anton\Documents\GitHub\js-in-6-ours\Module 4132832607312214120 1
+101C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\jake\node_modules\supports-color\browser.js131663821590000000 0
+74C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lodash\uniqBy.js121436361000000000 0
+95C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@nodelib\fs.stat\out\adapters\fs.d.ts121436361000000000 0
+92C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@nodelib\fs.stat\out\settings.d.ts121436361000000000 0
+85C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-ordered-values\dist132821744721142497 1
+85C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@babel\types\lib\index.d.ts121012626000000000 0
+82C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\node-gyp-build\README.md121436361000000000 0
+77C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\terser\node_modules132821744791473200 1
+84C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@parcel\cache\src\types.js121436361000000000 0
+72C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\pn\_promise.js130904510770000000 0
+126C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\uncss\node_modules\postcss-selector-parser\dist\__tests__\classes.js121436361000000000 0
+78C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\nan\doc\node_misc.md132319691410000000 0
+119C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-modules-scope\node_modules\postcss\lib\stringifier.js121436361000000000 0
+80C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\is-boolean-object\test132821744731293084 1
+53C:\Users\Anton\Documents\GitHub\js-in-6-ours\Module 7132804287587109041 1
+84C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lodash\_iteratorToArray.js121436361000000000 0
 62C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\open132821744808933533 1
 93C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\caniuse-lite\data\regions\alt-af.js121436361000000000 0
 66C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\asynckit132821744799199095 1
@@ -244,6 +145,29 @@
 91C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\stylehacks\dist\plugins\slash9.js121436361000000000 0
 84C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\is-arguments\.eslintignore121436361000000000 0
 53C:\Users\Anton\Documents\GitHub\js-in-6-ours\Module 8132813939797232875 1
+95C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@parcel\transformer-json\package.json132821744800308471 0
+107C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\caniuse-lite\data\features\css-scroll-behavior.js121436361000000000 0
+75C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\pako\dist\pako.js121436361000000000 0
+64C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\big.js132821744813275853 1
+79C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lodash.uniq\README.md131155832520000000 0
+82C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@swc\helpers\src\_jsx.js132732112500000000 0
+78C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\stealthy-require\lib132821744715512177 1
+88C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\highlight.js\scss\darcula.scss121436361000000000 0
+53C:\Users\Anton\Documents\GitHub\js-in-6-ours\Module 9132832604238170437 1
+100C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\stable\string\virtual\pad-start.js121436361000000000 0
+112C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract\2017\ValidateAndApplyPropertyDescriptor.js121436361000000000 0
+96C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-minify-gradients\dist\index.js121436361000000000 0
+96C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\caniuse-lite\data\features\css-grid.js121436361000000000 0
+96C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\uncss\node_modules\postcss\lib\root.js121436361000000000 0
+129C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-modules\node_modules\postcss-modules-local-by-default\README.md121436361000000000 0
+65C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\reusify132821744806584896 1
+94C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\jake\node_modules\has-flag\readme.md131593942790000000 0
+74C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\srcset\readme.md121436361000000000 0
+86C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@parcel\resolver-default\src132821744700723759 1
+75C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\mdn-data\index.js121436361000000000 0
+82C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\string_decoder\README.md121436361000000000 0
+98C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\domexception\lib\legacy-error-codes.json131471530860000000 0
+66C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\ecc-jsbn132821744806474935 1
 106C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\shorter-js\src\misc\getElementTransitionDelay.js121436361000000000 0
 75C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\word-wrap\LICENSE131274891740000000 0
 89C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\caniuse-lite\data\regions\NG.js121436361000000000 0
@@ -269,9 +193,16 @@
 114C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\jsdom\lib\jsdom\living\generated\EventListenerOptions.js121436361000000000 0
 107C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-modules-values\node_modules\chalk\license121436361000000000 0
 79C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\wcwidth\docs\index.md130443199530000000 0
+103C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@babel\helper-get-function-arity\lib\index.js121012626000000000 0
+125C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\uncss\node_modules\postcss-selector-parser\dist\selectors\pseudo.js121436361000000000 0
 62C:\Users\Anton\Documents\GitHub\js-in-6-ours\package-lock.json132831978614812216 0
-85C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\node-forge\lib\tlssocket.js121436361000000000 0
-57C:\Users\Anton\Documents\GitHub\js-in-6-ours\package.json132831978613912749 0
+97C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\csso\lib\replace\property\background.js121436361000000000 0
+100C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract\2020\OrdinaryGetOwnProperty.js121436361000000000 0
+117C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-modules-scope\node_modules\postcss\lib\processor.js121436361000000000 0
+67C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\base64-js132821744813285856 1
+77C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lodash\lowerCase.js121436361000000000 0
+88C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\stream-browserify\package.json132821744802986931 0
+80C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\yaml\browser\schema.js121436361000000000 0
 80C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\xxhash-wasm\LICENSE.md121436361000000000 0
 74C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\wcwidth\index.js130509341790000000 0
 87C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\crypto-browserify\.travis.yml131541096560000000 0
@@ -293,70 +224,12 @@
 75C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\parcel\lib\cli.js121436361000000000 0
 82C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\supports-color\readme.md121436361000000000 0
 58C:\Users\Anton\Documents\GitHub\js-in-6-ours\prettier.json132793795655948072 0
-48C:\Users\Anton\Documents\GitHub\js-in-6-ours\src132821745982311339 1
+48C:\Users\Anton\Documents\GitHub\js-in-6-ours\src132832613004898877 1
 77C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\rimraf\CHANGELOG.md121436361000000000 0
 103C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\modules\esnext.object.iterate-keys.js121436361000000000 0
 85C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\performance-now\license.txt131281925980000000 0
 96C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\utility-types\dist\mapped-types.js.map121436361000000000 0
 115C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lmdb-store\dependencies\lmdb\libraries\liblmdb\mdb_drop.c121436361000000000 0
-100C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\verror\node_modules\core-util-is\README.md130924525990000000 0
-81C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\nanoid\async\index.d.ts121436361000000000 0
-101C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\htmlparser2\node_modules\entities\readme.md121436361000000000 0
-98C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\modules\es.regexp.constructor.js121436361000000000 0
-70C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lodash.clone132821744809982934 1
-95C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-unique-selectors\package.json132821744803006923 0
-88C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\yaml\dist\Document-9b4560a1.js121436361000000000 0
-65C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\ieee754132821744810962377 1
-75C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\is-docker\license121436361000000000 0
-102C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract\2015\StrictEqualityComparison.js121436361000000000 0
-74C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lodash\sample.js121436361000000000 0
-103C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract\2020\BigInt\unsignedRightShift.js121436361000000000 0
-79C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\purgecss\node_modules132821744795161087 1
-83C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\path-to-regexp\index.d.ts131648761350000000 0
-99C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\handlebars\dist\amd\handlebars\decorators132831978609625187 1
-65C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\ajv\lib132821744726555349 1
-107C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\stable\typed-array\uint8-clamped-array.js121436361000000000 0
-89C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\which-boxed-primitive\.eslintrc121436361000000000 0
-104C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\jsdom\lib\jsdom\living\generated\TreeWalker.js121436361000000000 0
-79C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\fastq\test\example.ts121436361000000000 0
-105C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\terser\node_modules\source-map\lib\read-wasm.js131709648810000000 0
-96C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\es\reflect\get-prototype-of.js121436361000000000 0
-86C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract\2020\BinaryOr.js121436361000000000 0
-88C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-modules\build\index.js121436361000000000 0
-94C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\fast-json-stable-stringify\benchmark132821744734494628 1
-98C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@parcel\transformer-postcss\package.json132821744800308471 0
-54C:\Users\Anton\Documents\GitHub\js-in-6-ours\style.css132832597652661529 0
-81C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss\lib\postcss.mjs121436361000000000 0
-63C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\acorn132821744799249061 1
-86C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\setimmediate\setImmediate.js131181154880000000 0
-82C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lodash\fp\curryRightN.js121436361000000000 0
-84C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\string.prototype.trimstart132821744805415548 1
-94C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract\2020\Number\bitwiseOR.js121436361000000000 0
-65C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\process132821744806664829 1
-89C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\icss-utils\node_modules\postcss132821744805615435 1
-74C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lodash\sortBy.js121436361000000000 0
-78C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lodash\fp\toUpper.js121436361000000000 0
-86C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\uri-js\dist\es5\uri.all.d.ts121436361000000000 0
-87C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@parcel\transformer-image\lib132821744700933624 1
-78C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\slice-ansi\readme.md121436361000000000 0
-132C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-modules-local-by-default\node_modules\postcss\docs\architecture.md121436361000000000 0
-59C:\Users\Anton\Documents\GitHub\js-in-6-ours\webinar_5_1.js132785863262244151 0
-93C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\internals\iterators-core.js121436361000000000 0
-93C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-reduce-transforms\README.md121436361000000000 0
-78C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\indexes-of\README.md130290660740000000 0
-73C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\shorter-js\dist132821735408757732 1
-104C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\internals\normalize-string-argument.js121436361000000000 0
-64C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\stable132821744805465523 1
-77C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\yaml\browser\seq.js121436361000000000 0
-79C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\request\lib\tunnel.js121436361000000000 0
-89C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-modules-scope\README.md130898012800000000 0
-92C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@parcel\reporter-cli\lib\render.js121436361000000000 0
-126C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\uncss\node_modules\postcss-selector-parser\dist\__tests__\nesting.js121436361000000000 0
-59C:\Users\Anton\Documents\GitHub\js-in-6-ours\webinar_6_2.js132785935432278971 0
-80C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\picomatch\CHANGELOG.md121436361000000000 0
-115C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\jsdom\lib\jsdom\living\generated\ProcessingInstruction.js121436361000000000 0
-88C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@nodelib\fs.walk\out\providers132821744721222443 1
-62C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\.bin132831978610874469 1
 96C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-reduce-transforms\package.json132821744806534905 0
 81C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\indexes-of\package.json132821744810792469 0
 86C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\node-gyp-build\build-test.js121436361000000000 0
@@ -369,6 +242,7 @@
 74C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\chalk\index.d.ts121436361000000000 0
 81C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\xmlchars\xml\1.0\ed4.js121436361000000000 0
 70C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\svgo\LICENSE121436361000000000 0
+84C:\Users\Anton\Documents\GitHub\js-in-6-ours\dist\up_\module 11\module11.b41aab64.js132832618885952411 0
 71C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\get-intrinsic132821744811751925 1
 76C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\neo-async\until.js121436361000000000 0
 67C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\json5\lib132821744727115036 1
@@ -378,15 +252,68 @@
 100C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\path-browserify\test\test-path-relative.js121436361000000000 0
 95C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\highlight.js\lib\languages\clojure.js121436361000000000 0
 64C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@babel132821744792222776 1
-69C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\imurmurhash132821744810922396 1
-100C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\caniuse-lite\data\features\magnetometer.js121436361000000000 0
-83C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-calc\package.json132821744803026916 0
-71C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\alphanum-sort132821744799179107 1
-99C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\fast-json-stable-stringify\test\nested.js121436361000000000 0
-81C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\braces\lib\constants.js121436361000000000 0
-99C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\stable\typed-array\int16-array.js121436361000000000 0
-95C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\terser\lib\compress\native-objects.js121436361000000000 0
-64C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@iarna132821744773234918 1
+96C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-minify-selectors\dist\index.js121436361000000000 0
+92C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\is-fullwidth-code-point\index.d.ts121436361000000000 0
+83C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\har-schema\lib\query.json131370181680000000 0
+56C:\Users\Anton\Documents\GitHub\js-in-6-ours\Webinar 5-6132832608285094813 1
+108C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@parcel\runtime-js\src\helpers\node\wasm-loader.js121436361000000000 0
+99C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\cssstyle\lib\properties\borderTopStyle.js121436361000000000 0
+98C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\minifill\src\Array.prototype.includes.js121436361000000000 0
+71C:\Users\Anton\Documents\GitHub\js-in-6-ours\Webinar 5-6\webinar_5_1.js132832608284340000 0
+105C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\caniuse-lite\data\features\custom-elementsv1.js121436361000000000 0
+90C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract\2021\YearFromTime.js121436361000000000 0
+68C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\har-schema132821744811781914 1
+100C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-normalize-repeat-style\LICENSE-MIT121436361000000000 0
+109C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\jsdom\lib\jsdom\living\generated\HTMLSlotElement.js121436361000000000 0
+71C:\Users\Anton\Documents\GitHub\js-in-6-ours\Webinar 5-6\webinar_6_2.js132832608285100000 0
+72C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\is-interactive132821744810852438 1
+88C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\tty-browserify\readme.markdown131485997040000000 0
+120C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@babel\helper-compilation-targets\node_modules\.bin\semver.ps1132821744815524922 0
+99C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\has-ansi\node_modules\ansi-regex\index.js131288365850000000 0
+70C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\ansi-escapes132821744804276204 1
+99C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\caniuse-lite\data\features\will-change.js121436361000000000 0
+80C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\neo-async\async.min.js121436361000000000 0
+76C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\ansi-regex\license121436361000000000 0
+89C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\caniuse-lite\data\regions\BW.js121436361000000000 0
+109C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\split2\node_modules\readable-stream\CONTRIBUTING.md121436361000000000 0
+100C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\features\typed-array\from-async.js121436361000000000 0
+66C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\statuses132821744805435548 1
+86C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\es\symbol\replace.js121436361000000000 0
+123C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-modules-extract-imports\node_modules\postcss\README-cn.md121436361000000000 0
+68C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\terser\bin132821744722091952 1
+107C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\jsdom\lib\jsdom\living\generated\HTMLLIElement.js121436361000000000 0
+55C:\Users\Anton\Documents\GitHub\js-in-6-ours\src\app.js132821745982310000 0
+104C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-selector-parser\dist\selectors\root.js121436361000000000 0
+74C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\is-negative-zero132821744810842445 1
+64C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lodash132821744809992928 1
+89C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\stable\date\get-year.js121436361000000000 0
+115C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-modules-scope\node_modules\supports-color\license131408182550000000 0
+79C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lodash\sortedIndex.js121436361000000000 0
+75C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lodash\fp\prop.js121436361000000000 0
+77C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lodash\fp\unnest.js121436361000000000 0
+72C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lodash\pull.js121436361000000000 0
+85C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@babel\types\lib\converters132821744720209499 1
+128C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\uncss\node_modules\postcss-selector-parser\dist\selectors\container.js121436361000000000 0
+84C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\es\string\index.js121436361000000000 0
+64C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@types132821744773574693 1
+114C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@babel\highlight\node_modules\color-convert\package.json132821744799079178 0
+66C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\has-flag132821744811761920 1
+81C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\yaml\types\timestamp.js121436361000000000 0
+79C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-normalize-url132821744806774763 1
+81C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\path-browserify\LICENSE121436361000000000 0
+76C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\ieee754\index.d.ts121436361000000000 0
+81C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lodash\fp\startsWith.js121436361000000000 0
+84C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es6-object-assign\index.js131343386210000000 0
+97C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\uri-js\dist\esnext\schemes\https.js.map121436361000000000 0
+86C:\Users\Anton\Documents\GitHub\js-in-6-ours\dist\up_\Module 9\module9.946fc8d4.js.map132832617745295773 0
+65C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\nan\doc132821744732622320 1
+67C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lilconfig132821744809992928 1
+73C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\.bin\cssesc.ps1132821744816024675 0
+59C:\Users\Anton\Documents\GitHub\js-in-6-ours\src\index.html132832617076541598 0
+90C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\stable\json\stringify.js121436361000000000 0
+82C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\nth-check\lib\parse.d.ts121436361000000000 0
+94C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\utility-types\dist\mapped-types.d.ts121436361000000000 0
+58C:\Users\Anton\Documents\GitHub\js-in-6-ours\src\style.css132832613004910000 0
 103C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract\2021\BigInt\unsignedRightShift.js121436361000000000 0
 73C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\is-url\index.js131665623310000000 0
 127C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\aliased\index.js121436361000000000 0
@@ -426,6 +353,17 @@
 72C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\sha.js\hash.js132821744716991337 0
 79C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\wordwrap\package.json132831978610684578 0
 74C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\mime-db\index.js121436361000000000 0
+81C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss\lib\postcss.mjs121436361000000000 0
+63C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\acorn132821744799249061 1
+86C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\setimmediate\setImmediate.js131181154880000000 0
+82C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lodash\fp\curryRightN.js121436361000000000 0
+84C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\string.prototype.trimstart132821744805415548 1
+94C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract\2020\Number\bitwiseOR.js121436361000000000 0
+65C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\process132821744806664829 1
+89C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\icss-utils\node_modules\postcss132821744805615435 1
+74C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lodash\sortBy.js121436361000000000 0
+78C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lodash\fp\toUpper.js121436361000000000 0
+86C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\uri-js\dist\es5\uri.all.d.ts121436361000000000 0
 66C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\pn\fs.js131594838820000000 0
 100C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\css-select\lib\pseudo-selectors\pseudos.js121436361000000000 0
 63C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\isexe132821744810112859 1
@@ -435,6 +373,16 @@
 71C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\acorn-globals132821744799199095 1
 73C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lodash\isMap.js121436361000000000 0
 92C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-modules-scope\node_modules132821744789763813 1
+92C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\caniuse-lite\data\features\avif.js121436361000000000 0
+91C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\modules\es.regexp.exec.js121436361000000000 0
+104C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-merge-longhand\dist\lib\hasAllProps.js121436361000000000 0
+68C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\acorn-walk132821744799159128 1
+84C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\source-map\source-map.d.ts131369414910000000 0
+84C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\relateurl\lib\constants.js130516774050000000 0
+73C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\psl\dist\psl.js121436361000000000 0
+82C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lodash\fp\lastIndexOf.js121436361000000000 0
+81C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract\2021\Day.js121436361000000000 0
+78C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\is-unicode-supported132821744810782479 1
 61C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\psl132821744806654837 1
 69C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\array-union132821744799169124 1
 103C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\caniuse-lite\data\features\payment-request.js121436361000000000 0
@@ -466,6 +414,7 @@
 105C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\css-modules-loader-core\node_modules\source-map132821744812981223 1
 117C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-modules-scope\node_modules\postcss\lib\warn-once.js121436361000000000 0
 99C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\shorter-js\types\strings\touchEvents.d.ts121436361000000000 0
+79C:\Users\Anton\Documents\GitHub\js-in-6-ours\exersise 3-5\exercises_module_4.js132832608012590000 0
 77C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\ansi-html-community132821744799239078 1
 76C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lodash\padStart.js121436361000000000 0
 94C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\features\typed-array\join.js121436361000000000 0
@@ -489,6 +438,17 @@
 110C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\caniuse-lite\data\features\passive-event-listener.js121436361000000000 0
 122C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\uncss\node_modules\postcss-selector-parser\dist\selectors\tag.js121436361000000000 0
 69C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\on-finished132821744808943525 1
+87C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract\2021\SameValue.js121436361000000000 0
+93C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\type-fest\source\promise-value.d.ts121436361000000000 0
+79C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lodash\_hasUnicode.js121436361000000000 0
+71C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\har-validator132821744803336739 1
+88C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@parcel\node-resolver-core\src132821744715592156 1
+69C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lodash.uniq132821744809972939 1
+102C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\minimalistic-crypto-utils\test\utils-test.js131322720290000000 0
+91C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract\2015\DayWithinYear.js121436361000000000 0
+80C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\run-parallel\README.md121436361000000000 0
+96C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@nodelib\fs.scandir\out\types\index.js121436361000000000 0
+60C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\bl132821744803306760 1
 114C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-modules-scope\node_modules\postcss\lib\result.js121436361000000000 0
 64C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\assert132821744801907557 1
 87C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\node-forge\lib\cipherModes.js121436361000000000 0
@@ -504,6 +464,23 @@
 63C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\bn.js132821744813275853 1
 90C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\es\string\replace-all.js121436361000000000 0
 69C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract132821744801947537 1
+80C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@babel\core\src\config132821744721642210 1
+82C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\nanoid\index.browser.cjs121436361000000000 0
+103C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\http-proxy-middleware\dist\handlers\public.js121436361000000000 0
+114C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@parcel\core\test\fixtures\invalid-distpath\package.json121436361000000000 0
+118C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\bl\node_modules\readable-stream\lib\internal\streams\from.js121436361000000000 0
+84C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\svgo\plugins\removeDesc.js121436361000000000 0
+90C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\side-channel\.github\FUNDING.yml121436361000000000 0
+76C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\cssstyle\README.md121436361000000000 0
+88C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\uri-js\dist\es5\uri.all.min.js121436361000000000 0
+67C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\encodeurl132821744812051749 1
+111C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-selector-parser\dist\__tests__\nonstandard.js121436361000000000 0
+93C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\features\promise\finally.js121436361000000000 0
+79C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\nan\doc\converters.md131359036360000000 0
+108C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\globals\node_modules\type-fest\source\entries.d.ts121436361000000000 0
+105C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@babel\helper-compilation-targets\lib\pretty.js121012626000000000 0
+96C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\jsdom\lib\jsdom\living\helpers\text.js121436361000000000 0
+70C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\astral-regex132821744799189101 1
 85C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\browserify-aes\modes\cfb.js121436361000000000 0
 100C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract\2017\FromPropertyDescriptor.js121436361000000000 0
 87C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\msgpackr-extract\package.json132821744808883561 0
@@ -530,6 +507,7 @@
 80C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-to-primitive\es5.js121436361000000000 0
 109C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@babel\highlight\node_modules\color-convert\LICENSE121436361000000000 0
 98C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\string.prototype.trimstart\.eslintignore121436361000000000 0
+83C:\Users\Anton\Documents\GitHub\js-in-6-ours\dist\up_\codewars\codewars.63736ebe.js132832618885942415 0
 99C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\uncss\node_modules\postcss\lib\postcss.js121436361000000000 0
 86C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\ajv\lib\definition_schema.js121436361000000000 0
 98C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-discard-duplicates\dist\index.js121436361000000000 0
@@ -566,35 +544,13 @@
 62C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\aws4132821744813275853 1
 110C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\jsdom\lib\jsdom\living\generated\HTMLQuoteElement.js121436361000000000 0
 82C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\node-forge\lib\md.all.js121436361000000000 0
+84C:\Users\Anton\Documents\GitHub\js-in-6-ours\dist\up_\module 10\module10.2d263288.js132832618885952411 0
 64C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\base-x132821744806554895 1
-97C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\csso\lib\replace\property\background.js121436361000000000 0
-100C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract\2020\OrdinaryGetOwnProperty.js121436361000000000 0
-117C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-modules-scope\node_modules\postcss\lib\processor.js121436361000000000 0
-67C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\base64-js132821744813285856 1
-77C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lodash\lowerCase.js121436361000000000 0
-88C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\stream-browserify\package.json132821744802986931 0
-80C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\yaml\browser\schema.js121436361000000000 0
 68C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\indexes-of132821744810922396 1
 83C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-reduce-transforms132821744806674821 1
 96C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\iconv-lite\encodings\tables\cp949.json130976329310000000 0
 83C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@parcel\core\package.json132821744800298475 0
 70C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\bcrypt-pbkdf132821744804286195 1
-95C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@parcel\transformer-json\package.json132821744800308471 0
-107C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\caniuse-lite\data\features\css-scroll-behavior.js121436361000000000 0
-75C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\pako\dist\pako.js121436361000000000 0
-64C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\big.js132821744813275853 1
-79C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lodash.uniq\README.md131155832520000000 0
-87C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract\2021\SameValue.js121436361000000000 0
-93C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\type-fest\source\promise-value.d.ts121436361000000000 0
-79C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lodash\_hasUnicode.js121436361000000000 0
-71C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\har-validator132821744803336739 1
-88C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@parcel\node-resolver-core\src132821744715592156 1
-69C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lodash.uniq132821744809972939 1
-102C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\minimalistic-crypto-utils\test\utils-test.js131322720290000000 0
-91C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract\2015\DayWithinYear.js121436361000000000 0
-80C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\run-parallel\README.md121436361000000000 0
-96C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@nodelib\fs.scandir\out\types\index.js121436361000000000 0
-60C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\bl132821744803306760 1
 68C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\optionator132821744801897560 1
 96C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@parcel\core\test\fixtures\main-global132821744736543460 1
 83C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\es\reflect\set.js121436361000000000 0
@@ -803,10 +759,6 @@
 73C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\foreach\LICENSE130558403360000000 0
 90C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\es\array\virtual\fill.js121436361000000000 0
 68C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\cli-cursor132821744805565464 1
-103C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\bootstrap.native\src\components\tab-native.js121436361000000000 0
-98C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\modules\es.symbol.description.js121436361000000000 0
-81C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract\2021\Number132821744760509886 1
-70C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\cli-spinners132821744813031190 1
 105C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\caniuse-lite\data\features\input-placeholder.js121436361000000000 0
 72C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\restore-cursor132821744805555470 1
 63C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\clone132821744813011203 1
@@ -870,6 +822,7 @@
 80C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\nan\doc\maybe_types.md132319691430000000 0
 65C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\connect132821744803036909 1
 96C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract\2021\IsConcatSpreadable.js121436361000000000 0
+80C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\mdn-data\l10n\css.json121436361000000000 0
 79C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@babel\parser\LICENSE121012626000000000 0
 114C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-modules-extract-imports\node_modules\postcss\lib132821744721592238 1
 84C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\source-map-js\package.json132821744805255640 0
@@ -922,6 +875,7 @@
 91C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\parse5\lib\utils\merge-options.js121436361000000000 0
 69C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\create-hmac132821744803236797 1
 90C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\msgpackr-extract\src\extract.cpp121436361000000000 0
+88C:\Users\Anton\Documents\GitHub\js-in-6-ours\dist\up_\module 11\module11.b41aab64.js.map132832618886142320 0
 77C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lodash\isWeakSet.js121436361000000000 0
 95C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\caniuse-lite\data\features\pointer.js121436361000000000 0
 73C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\uuid\lib\rng.js121436361000000000 0
@@ -993,6 +947,10 @@
 67C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\escodegen132821744801917551 1
 123C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-modules-extract-imports\node_modules\ansi-styles\index.js131644568170000000 0
 96C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\string.prototype.trimend\.eslintignore121436361000000000 0
+80C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\cssnano-preset-default132821744803176828 1
+93C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\terser\node_modules\source-map\dist132821744714602717 1
+105C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\string.prototype.trimend\test\implementation.js121436361000000000 0
+81C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract\2021\abs.js121436361000000000 0
 95C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-normalize-string\package.json132821744807564315 0
 99C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\fast-glob\out\providers\filters\deep.d.ts121436361000000000 0
 86C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lmdb-store\dependencies\lmdb132821744707546172 1
@@ -1057,6 +1015,13 @@
 97C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-normalize-charset\dist\index.js121436361000000000 0
 92C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\string.prototype.trimstart\shim.js121436361000000000 0
 75C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\define-properties132821744808963517 1
+87C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract\2020\ToInteger.js121436361000000000 0
+77C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\mkdirp\package.json132821744808943525 0
+103C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\jsdom\lib\jsdom\living\generated\SVGNumber.js121436361000000000 0
+71C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\forever-agent132821744811851865 1
+92C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\es\typed-array\includes.js121436361000000000 0
+72C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\delayed-stream132821744812881285 1
+134C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-modules-extract-imports\node_modules\postcss\lib\css-syntax-error.js121436361000000000 0
 71C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\url\.zuul.yml130426474160000000 0
 95C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@parcel\utils\test\collection.test.js121436361000000000 0
 68C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\picocolors132821744808044044 1
@@ -1250,14 +1215,11 @@
 77C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\fastest-levenshtein132821744811881852 1
 70C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\safer-buffer132821744806514919 1
 79C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\safer-buffer\safer.js121436361000000000 0
-94C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\stable\string\virtual\sup.js121436361000000000 0
-91C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-normalize-charset\LICENSE121436361000000000 0
-65C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\request132821744801987529 1
+105C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\modules\es.typed-array.float64-array.js121436361000000000 0
+62C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\yaml132821744800648277 1
 93C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\stable\instance\includes.js121436361000000000 0
 95C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\domexception\lib\DOMException-impl.js131471540570000000 0
 67C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\fastparse132821744811871853 1
-105C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\modules\es.typed-array.float64-array.js121436361000000000 0
-62C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\yaml132821744800648277 1
 82C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lodash\_charsEndIndex.js121436361000000000 0
 63C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\jsdom132821744801857580 1
 82C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\stealthy-require\LICENSE131375406790000000 0
@@ -1266,6 +1228,9 @@
 80C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\node-forge\lib\sha1.js121436361000000000 0
 80C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\is-shared-array-buffer132821744810802468 1
 64C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\globby132821744804356155 1
+94C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\stable\string\virtual\sup.js121436361000000000 0
+91C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-normalize-charset\LICENSE121436361000000000 0
+65C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\request132821744801987529 1
 63C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\fastq132821744806564885 1
 72C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\node-addon-api132821744808883561 1
 89C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\source-map-support\package.json132821744805235663 0
@@ -1346,6 +1311,7 @@
 126C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\uncss\node_modules\postcss-selector-parser\dist\selectors\nesting.js121436361000000000 0
 79C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\terminal-link\license121436361000000000 0
 71C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\function-bind132821744811811887 1
+65C:\Users\Anton\Documents\GitHub\js-in-6-ours\Lessons\lessons 7.js132832608609410000 0
 71C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\generic-names132821744809053470 1
 74C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\msgpackr-extract132821744809003492 1
 79C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@parcel\fs\index.d.ts121436361000000000 0
@@ -1358,18 +1324,17 @@
 88C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\parse5\lib\serializer\index.js121436361000000000 0
 80C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\get-symbol-description132821744811042326 1
 62C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\glob132821744801857580 1
+76C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\mime-types\LICENSE121436361000000000 0
+72C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\extend\LICENSE121436361000000000 0
+87C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\nullthrows\nullthrows.js.flow121436361000000000 0
+69C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\graceful-fs132821744811781914 1
+110C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\jsdom\lib\jsdom\living\nodes\HTMLFontElement-impl.js121436361000000000 0
 88C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\xxhash-wasm\esm\xxhash-wasm.js121436361000000000 0
 108C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-selector-parser\dist\util\stripComments.js121436361000000000 0
 76C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\svgo\lib\parser.js121436361000000000 0
 68C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\handlebars132831978610734555 1
 95C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-modules\build\css-loader-core132821744709192865 1
 79C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\xxhash-wasm\README.md121436361000000000 0
-108C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@parcel\runtime-js\src\helpers\node\wasm-loader.js121436361000000000 0
-99C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\cssstyle\lib\properties\borderTopStyle.js121436361000000000 0
-98C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\minifill\src\Array.prototype.includes.js121436361000000000 0
-105C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\caniuse-lite\data\features\custom-elementsv1.js121436361000000000 0
-90C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract\2021\YearFromTime.js121436361000000000 0
-68C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\har-schema132821744811781914 1
 115C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@babel\helper-member-expression-to-functions\package.json132821744804236225 0
 65C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\ncp\bin132821744725635879 1
 61C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\has132821744811781914 1
@@ -1421,6 +1386,7 @@
 89C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\caniuse-lite\data\regions\EC.js121436361000000000 0
 93C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\caniuse-lite\data\regions\alt-oc.js121436361000000000 0
 81C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\node-gyp-build\index.js121436361000000000 0
+82C:\Users\Anton\Documents\GitHub\js-in-6-ours\dist\up_\Module 9\module9.c7de5032.js132832618885942415 0
 85C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\css-select\lib\general.d.ts121436361000000000 0
 80C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\request\lib\helpers.js121436361000000000 0
 77C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lodash\fp\sample.js121436361000000000 0
@@ -1431,10 +1397,16 @@
 75C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lodash\fp\pull.js121436361000000000 0
 80C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lodash\fp\rangeStep.js121436361000000000 0
 63C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\json5132821744809123434 1
+66C:\Users\Anton\Documents\GitHub\js-in-6-ours\Module 11\module11.js132832616466161872 0
 70C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\uniq\uniq.js130455261730000000 0
 65C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\hash.js132821744809892983 1
 95C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\highlight.js\scss\tomorrow-night.scss121436361000000000 0
 67C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\html-tags132821744811022337 1
+74C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\cssesc\cssesc.js121436361000000000 0
+96C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract\2016\EnumerableOwnNames.js121436361000000000 0
+70C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\highlight.js132821744811022337 1
+68C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\prelude-ls132821744806664829 1
+80C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\node-forge\lib\hmac.js121436361000000000 0
 92C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@parcel\utils\test\input\sourcemap132821744719729778 1
 93C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract\2020\Number\lessThan.js121436361000000000 0
 94C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\ordered-binary\assets\powers-dre.png121436361000000000 0
@@ -1500,6 +1472,19 @@
 72C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@parcel\logger132821744808873568 1
 96C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\modules\es.number.parse-int.js121436361000000000 0
 80C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\uglify-js\tools\tty.js121436361000000000 0
+100C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\verror\node_modules\core-util-is\README.md130924525990000000 0
+81C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\nanoid\async\index.d.ts121436361000000000 0
+101C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\htmlparser2\node_modules\entities\readme.md121436361000000000 0
+98C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\modules\es.regexp.constructor.js121436361000000000 0
+70C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lodash.clone132821744809982934 1
+95C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-unique-selectors\package.json132821744803006923 0
+88C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\yaml\dist\Document-9b4560a1.js121436361000000000 0
+65C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\ieee754132821744810962377 1
+75C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\is-docker\license121436361000000000 0
+102C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract\2015\StrictEqualityComparison.js121436361000000000 0
+74C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lodash\sample.js121436361000000000 0
+103C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract\2020\BigInt\unsignedRightShift.js121436361000000000 0
+79C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\purgecss\node_modules132821744795161087 1
 84C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\querystring-es3\History.md130577003180000000 0
 68C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\parse-json132821744808853576 1
 86C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\stable\math\expm1.js121436361000000000 0
@@ -1536,6 +1521,8 @@
 70C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lodash\gt.js121436361000000000 0
 110C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\jsdom\lib\jsdom\living\generated\HTMLAudioElement.js121436361000000000 0
 96C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\highlight.js\scss\solarized-light.scss121436361000000000 0
+111C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\msgpackr-extract\prebuilds\darwin-x64\node.abi72.node121436361000000000 0
+70C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\is-arguments132821744810902414 1
 75C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\is-url\History.md131665623310000000 0
 75C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\is-boolean-object132821744810892412 1
 80C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\on-finished\HISTORY.md130771630870000000 0
@@ -1595,8 +1582,6 @@
 89C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\caniuse-lite\data\regions\FJ.js121436361000000000 0
 84C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\ws\lib\websocket-server.js121436361000000000 0
 65C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\is-html132821744810862431 1
-72C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\is-interactive132821744810852438 1
-88C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\tty-browserify\readme.markdown131485997040000000 0
 77C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\request\lib\hawk.js121436361000000000 0
 82C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lodash\_copySymbolsIn.js121436361000000000 0
 105C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\css-modules-loader-core\node_modules\ansi-regex132821744812991216 1
@@ -1633,13 +1618,6 @@
 98C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@babel\generator\lib\generators\index.js121012626000000000 0
 92C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract\2019\IsStringPrefix.js121436361000000000 0
 89C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\type-fest\ts41\pascal-case.d.ts121436361000000000 0
-94C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@babel\types\lib\validators\isVar.js121012626000000000 0
-82C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\shebang-command\index.js131190036810000000 0
-127C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\uncss\node_modules\postcss-selector-parser\dist\__tests__\comments.js121436361000000000 0
-85C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\object.assign\.editorconfig121436361000000000 0
-78C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lodash\_baseDelay.js121436361000000000 0
-86C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-selector-parser\dist132821744717171234 1
-72C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\is-typed-array132821744801927544 1
 104C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@parcel\core\lib\requests\ValidationRequest.js121436361000000000 0
 78C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lodash\fp\mapKeys.js121436361000000000 0
 105C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract\2019\CanonicalNumericIndexString.js121436361000000000 0
@@ -1860,6 +1838,19 @@
 95C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\csso\lib\replace\AttributeSelector.js121436361000000000 0
 122C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-modules-extract-imports\node_modules\postcss\lib\rule.js121436361000000000 0
 95C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\uri-js\dist\esnext\schemes\https.d.ts121436361000000000 0
+114C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-modules-scope\node_modules\has-flag\package.json132821744807684246 0
+86C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\whatwg-mimetype\package.json132821744801747636 0
+99C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\caniuse-lite\data\features\typedarrays.js121436361000000000 0
+75C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\w3c-xmlserializer132821744801867577 1
+79C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss\lib\node.d.ts121436361000000000 0
+104C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@parcel\babel-ast-utils\test\fixtures\error.js121436361000000000 0
+89C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\minifill\src\Number.isFinite.js121436361000000000 0
+93C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lmdb-store\dependencies\lz4\lib\dll132821744730213323 1
+110C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\internals\object-get-own-property-symbols.js121436361000000000 0
+80C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\utils-merge\.npmignore131503400650000000 0
+90C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract\2016\ToUint8Clamp.js121436361000000000 0
+107C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\fast-url-parser\node_modules\punycode\punycode.js131029107950000000 0
+67C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\nth-check132821744808983504 1
 115C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\jsdom\lib\jsdom\living\navigator\NavigatorPlugins-impl.js121436361000000000 0
 81C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract\2017\Set.js121436361000000000 0
 82C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\normalize-url\index.d.ts121436361000000000 0
@@ -2183,6 +2174,14 @@
 106C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\caniuse-lite\data\features\css-color-function.js121436361000000000 0
 71C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lodash\seq.js121436361000000000 0
 87C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\v8-compile-cache\package.json132821744800308471 0
+81C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss\lib\result.d.ts121436361000000000 0
+79C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\terser\tools\exit.cjs121436361000000000 0
+125C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\uncss\node_modules\postcss-selector-parser\dist\selectors\guards.js121436361000000000 0
+108C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lmdb-store\prebuilds\darwin-arm64\node.abi102.node121436361000000000 0
+73C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\yaml\index.d.ts121436361000000000 0
+83C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\miller-rabin\node_modules132821744779291515 1
+95C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\which-typed-array\.github\FUNDING.yml121436361000000000 0
+83C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lodash\_hasUnicodeWord.js121436361000000000 0
 74C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lodash\toPath.js121436361000000000 0
 76C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\request\lib\har.js121436361000000000 0
 90C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@parcel\packager-js\src\index.js121436361000000000 0
@@ -2307,6 +2306,12 @@
 64C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\split2132821744803166835 1
 104C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@parcel\core\src\requests\AssetGraphRequest.js121436361000000000 0
 74C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\xmlchars\xml\1.0132821744708355729 1
+127C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-modules-extract-imports\node_modules\postcss\lib\warn-once.js121436361000000000 0
+114C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\jsdom\lib\jsdom\living\generated\HTMLTableCellElement.js121436361000000000 0
+92C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\relateurl\lib\relate\absolutize.js130631690480000000 0
+97C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract\2021\IsGenericDescriptor.js121436361000000000 0
+104C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\internals\normalize-string-argument.js121436361000000000 0
+64C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\stable132821744805465523 1
 73C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\.bin\parser.cmd132821744815584866 0
 82C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\string.prototype.trimend132821744805435548 1
 77C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\supports-hyperlinks132821744805365591 1
@@ -2331,12 +2336,6 @@
 84C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lodash\fp\sortedIndexBy.js121436361000000000 0
 102C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\serve-handler\node_modules\mime-db\README.md131564451730000000 0
 70C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\tough-cookie132821744804346161 1
-85C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\public-encrypt\test\ec.priv121436361000000000 0
-83C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\minimist\example\parse.js121436361000000000 0
-77C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\aws-sign2\README.md131364977210000000 0
-70C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\tunnel-agent132821744804316180 1
-90C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\source-map-js\lib\source-node.js121436361000000000 0
-78C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\terser\lib\output.js121436361000000000 0
 79C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\xmlchars\package.json132821744801647698 0
 108C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract\2019\IsCompatiblePropertyDescriptor.js121436361000000000 0
 80C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lodash\_arrayFilter.js121436361000000000 0
@@ -2410,14 +2409,6 @@
 92C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\svgo\plugins\removeStyleElement.js121436361000000000 0
 72C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\pako\lib\utils132821744729133948 1
 70C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\yaml\browser132821744711504481 1
-81C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss\lib\result.d.ts121436361000000000 0
-79C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\terser\tools\exit.cjs121436361000000000 0
-125C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\uncss\node_modules\postcss-selector-parser\dist\selectors\guards.js121436361000000000 0
-108C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lmdb-store\prebuilds\darwin-arm64\node.abi102.node121436361000000000 0
-73C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\yaml\index.d.ts121436361000000000 0
-83C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\miller-rabin\node_modules132821744779291515 1
-95C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\which-typed-array\.github\FUNDING.yml121436361000000000 0
-83C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lodash\_hasUnicodeWord.js121436361000000000 0
 75C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\es\regexp132821744769674953 1
 72C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\posthtml\types132821744720339424 1
 71C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\yaml\index.js121436361000000000 0
@@ -2560,6 +2551,11 @@
 88C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\type-fest\source\value-of.d.ts121436361000000000 0
 78C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\yaml\browser\pair.js121436361000000000 0
 75C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\is-symbol\LICENSE121436361000000000 0
+77C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\yaml\browser\seq.js121436361000000000 0
+79C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\request\lib\tunnel.js121436361000000000 0
+89C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-modules-scope\README.md130898012800000000 0
+92C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@parcel\reporter-cli\lib\render.js121436361000000000 0
+126C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\uncss\node_modules\postcss-selector-parser\dist\__tests__\nesting.js121436361000000000 0
 76C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\fastq\test\test.js121436361000000000 0
 100C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\caniuse-lite\data\features\setimmediate.js121436361000000000 0
 76C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\yaml\browser\types132821744710415099 1
@@ -2942,6 +2938,11 @@
 101C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\cssstyle\lib\properties\borderRightWidth.js121436361000000000 0
 82C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\path-is-absolute\license130412725910000000 0
 93C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\which-boxed-primitive\.editorconfig121436361000000000 0
+83C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\path-to-regexp\index.d.ts131648761350000000 0
+99C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\handlebars\dist\amd\handlebars\decorators132831978609625187 1
+65C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\ajv\lib132821744726555349 1
+107C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\stable\typed-array\uint8-clamped-array.js121436361000000000 0
+89C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\which-boxed-primitive\.eslintrc121436361000000000 0
 81C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\requires-port\README.md130599359430000000 0
 81C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lodash\fp\spreadFrom.js121436361000000000 0
 91C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\htmlnano\lib\modules\minifyCss.js121436361000000000 0
@@ -2987,6 +2988,9 @@
 110C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\jsdom\lib\jsdom\living\generated\HTMLDListElement.js121436361000000000 0
 73C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\which\bin\which121436361000000000 0
 116C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\jsdom\lib\jsdom\living\generated\ElementCreationOptions.js121436361000000000 0
+80C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\whatwg-url\LICENSE.txt121436361000000000 0
+75C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\callsites\license121436361000000000 0
+80C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\svgo\lib\svgo\tools.js121436361000000000 0
 81C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\whatwg-url\package.json132821744801737642 0
 98C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\uri-js\dist\esnext\schemes\urn-uuid.d.ts121436361000000000 0
 80C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\escodegen\escodegen.js121436361000000000 0
@@ -3001,6 +3005,13 @@
 86C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\unbox-primitive\CHANGELOG.md121436361000000000 0
 94C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\caniuse-lite\data\features\canvas.js121436361000000000 0
 86C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\whatwg-url\lib\urlencoded.js121436361000000000 0
+88C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@babel\core\lib\config\item.js121012626000000000 0
+77C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@parcel\workers\src132821744712533898 1
+96C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\stylehacks\dist\plugins\leadingStar.js121436361000000000 0
+104C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\jsdom\lib\jsdom\living\generated\ErrorEvent.js121436361000000000 0
+103C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\jsdom\lib\jsdom\living\generated\EventInit.js121436361000000000 0
+90C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-value-parser\lib\walk.js121436361000000000 0
+96C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\whatwg-url\lib\URLSearchParams-impl.js121436361000000000 0
 80C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\util-deprecate\node.js130614195410000000 0
 83C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\es\promise\any.js121436361000000000 0
 86C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\msgpackr\tests\example2.json121436361000000000 0
@@ -3319,9 +3330,6 @@
 106C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@parcel\core\test\fixtures\main-mjs\package.json121436361000000000 0
 102C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\utility-types\dist\functional-helpers.js.map121436361000000000 0
 89C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\utility-types\dist\index.js.map121436361000000000 0
-90C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\stable\json\stringify.js121436361000000000 0
-82C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\nth-check\lib\parse.d.ts121436361000000000 0
-94C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\utility-types\dist\mapped-types.d.ts121436361000000000 0
 80C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\nth-check\lib\parse.js121436361000000000 0
 92C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\utility-types\dist\mapped-types.js121436361000000000 0
 89C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract\2016\GetIterator.js121436361000000000 0
@@ -3524,8 +3532,6 @@
 142C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-false\src\index.js121436361000000000 0
 98C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract\2016\ToPropertyDescriptor.js121436361000000000 0
 84C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\node-addon-api\except.gypi121436361000000000 0
-92C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\public-encrypt\test\pass.1024.priv121436361000000000 0
-90C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\uri-js\dist\esnext\schemes\ws.js121436361000000000 0
 94C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@swc\helpers\lib\_to_property_key.js132811082760000000 0
 101C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\shorter-js\src\strings\animationDuration.js121436361000000000 0
 102C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@swc\helpers\lib\_interop_require_default.js132811082760000000 0
@@ -3618,17 +3624,6 @@
 107C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\css-tree\lib\syntax\node\PseudoElementSelector.js121436361000000000 0
 110C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\uncss\node_modules\postcss-selector-parser\README.md121436361000000000 0
 107C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\globals\node_modules\type-fest\source\opaque.d.ts121436361000000000 0
-110C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\msgpackr-extract\prebuilds\linux-x64\node.abi72.node121436361000000000 0
-69C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\timsort\src132821744714762624 1
-80C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@babel\helpers\LICENSE121012626000000000 0
-101C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\jsdom\lib\jsdom\living\helpers\traversal.js121436361000000000 0
-101C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-merge-longhand\dist\lib\parseWsc.js121436361000000000 0
-112C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-modules-values\node_modules\color-name\LICENSE130953959930000000 0
-102C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@parcel\fs-write-stream-atomic\test\basic.js121436361000000000 0
-114C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\uncss\node_modules\postcss-selector-parser\dist\index.js121436361000000000 0
-114C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\jsdom\lib\jsdom\living\nodes\WindowEventHandlers-impl.js121436361000000000 0
-100C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-modules-local-by-default\README.md130784037430000000 0
-108C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-modules-values\node_modules\supports-color132821744807844154 1
 82C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@parcel\packager-raw\lib132821744700573872 1
 84C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lodash\_setWrapToString.js121436361000000000 0
 109C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\jsdom\lib\jsdom\living\generated\HTMLBodyElement.js121436361000000000 0
@@ -3704,8 +3699,6 @@
 127C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\uncss\node_modules\postcss-selector-parser\dist\util\stripComments.js121436361000000000 0
 124C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\uncss\node_modules\postcss-selector-parser\dist\selectors\index.js121436361000000000 0
 123C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\uncss\node_modules\postcss-selector-parser\dist\selectors\node.js121436361000000000 0
-103C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@babel\helper-get-function-arity\lib\index.js121012626000000000 0
-125C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\uncss\node_modules\postcss-selector-parser\dist\selectors\pseudo.js121436361000000000 0
 76C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\fault\package.json132821744811701954 0
 120C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-modules-extract-imports\node_modules\postcss\README.md121436361000000000 0
 123C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\uncss\node_modules\postcss-selector-parser\dist\selectors\root.js121436361000000000 0
@@ -3767,7 +3760,7 @@
 78C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lodash\_baseIsNaN.js121436361000000000 0
 95C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\caniuse-lite\data\features\svg-img.js121436361000000000 0
 96C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\minifill\src\window.performance.now.js121436361000000000 0
-63C:\Users\Anton\Documents\GitHub\js-in-6-ours\dist\up_\module 10132832599720008975 1
+63C:\Users\Anton\Documents\GitHub\js-in-6-ours\dist\up_\module 10132832618886192291 1
 86C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\modules\es.symbol.js121436361000000000 0
 98C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-modules\node_modules\postcss\lib132821744719579865 1
 81C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\neo-async\timesLimit.js121436361000000000 0
@@ -4056,11 +4049,11 @@
 111C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\jsdom\lib\jsdom\living\nodes\HTMLParamElement-impl.js121436361000000000 0
 72C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\tr46\README.md131488780750000000 0
 78C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lodash\fp\isEmpty.js121436361000000000 0
+86C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\relateurl\lib\util\devlog.js130516774860000000 0
 102C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@babel\types\scripts\utils\toFunctionName.js121012626000000000 0
 101C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@parcel\hash\parcel-hash.linux-x64-gnu.node121436361000000000 0
 77C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\tr46\lib\regexes.js131488781320000000 0
 77C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\stable\package.json132821744805245643 0
-86C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\relateurl\lib\util\devlog.js130516774860000000 0
 105C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\jsdom\lib\jsdom\living\nodes\ParentNode-impl.js121436361000000000 0
 92C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\object-inspect\test\toStringTag.js121436361000000000 0
 91C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract\2020\MonthFromTime.js121436361000000000 0
@@ -4113,9 +4106,6 @@
 90C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@parcel\transformer-json\LICENSE121436361000000000 0
 71C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\timsort\build132821744714462796 1
 76C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\internal-slot\test132821744717281169 1
-77C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\.bin\esvalidate.cmd132821744816284522 0
-88C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\es\string\trim-left.js121436361000000000 0
-74C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\timsort\index.js131138581980000000 0
 82C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\es\json\index.js121436361000000000 0
 78C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\signal-exit\index.js121436361000000000 0
 71C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\bn.js\LICENSE121436361000000000 0
@@ -4219,6 +4209,9 @@
 84C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\proposals\index.js121436361000000000 0
 91C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\mdn-data\css\syntaxes.schema.json121436361000000000 0
 106C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\terser\node_modules\source-map\lib\mappings.wasm131709648810000000 0
+104C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\jsdom\lib\jsdom\living\generated\TreeWalker.js121436361000000000 0
+79C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\fastq\test\example.ts121436361000000000 0
+105C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\terser\node_modules\source-map\lib\read-wasm.js131709648810000000 0
 115C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\terser\node_modules\source-map\lib\source-map-consumer.js131709648810000000 0
 103C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\handlebars\dist\amd\handlebars\helpers\log.js121436361000000000 0
 98C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\cssstyle\lib\properties\lightingColor.js121436361000000000 0
@@ -4469,10 +4462,6 @@
 85C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\object-inspect\package.json132821744808823600 0
 79C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\svgo\lib\css-tools.js121436361000000000 0
 91C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\jsdom\lib\jsdom\browser\resources132821744708575609 1
-71C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\psl\README.md121436361000000000 0
-79C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lodash\fp\assignIn.js121436361000000000 0
-105C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\bootstrap.native\src\strings\dataBsContainer.js121436361000000000 0
-75C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\svgo\lib\style.js121436361000000000 0
 79C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\svgo\lib\svgo-node.js121436361000000000 0
 102C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\features\string\virtual\pad-start.js121436361000000000 0
 78C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\svgo\lib\svgo\coa.js121436361000000000 0
@@ -4841,8 +4830,13 @@
 74C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\stable\stable.js131691408950000000 0
 107C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\shorter-js\types\strings\removeEventListener.d.ts121436361000000000 0
 88C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\is-number-object\test\index.js121436361000000000 0
+79C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lodash\fp\toNumber.js121436361000000000 0
+79C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\parseurl\package.json132821744808733646 0
+71C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\sshpk\LICENSE130913301440000000 0
 91C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\highlight.js\lib\languages\dns.js121436361000000000 0
 85C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\sshpk\man\man1\sshpk-conv.1130970391170000000 0
+94C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\relateurl\lib\relate\findRelation.js130631687530000000 0
+96C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\http-proxy-middleware\dist\router.d.ts121436361000000000 0
 92C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\highlight.js\lib\languages\json.js121436361000000000 0
 98C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\es\reflect\prevent-extensions.js121436361000000000 0
 85C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\sshpk\man\man1\sshpk-sign.1130970391170000000 0
@@ -4910,6 +4904,7 @@
 132C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-modules\node_modules\postcss-modules-local-by-default\CHANGELOG.md121436361000000000 0
 89C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lmdb-store\test\module.test.mjs121436361000000000 0
 103C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\split2\node_modules\readable-stream\errors.js121436361000000000 0
+84C:\Users\Anton\Documents\GitHub\js-in-6-ours\dist\up_\module 10\module10.852b14d9.js132832618885952411 0
 73C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\bn.js\README.md121436361000000000 0
 116C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\split2\node_modules\readable-stream\experimentalWarning.js121436361000000000 0
 92C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\es\array-buffer\is-view.js121436361000000000 0
@@ -4920,6 +4915,9 @@
 108C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\handlebars\lib\handlebars\internal\proto-access.js121436361000000000 0
 92C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@parcel\core\lib\PackagerRunner.js121436361000000000 0
 97C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\split2\node_modules\readable-stream\lib132821744708845438 1
+139C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\source-not-symlinked\dist.js121436361000000000 0
+114C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-modules-values\node_modules\postcss\CHANGELOG.md121436361000000000 0
+101C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\split2\node_modules\readable-stream\LICENSE121436361000000000 0
 108C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-modules\node_modules\postcss-modules-scope132821744803296763 1
 82C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lodash\fp\placeholder.js121436361000000000 0
 86C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract\2019\ToLength.js121436361000000000 0
@@ -5026,9 +5024,17 @@
 93C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\source-map\dist\source-map.debug.js131511695990000000 0
 98C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\css-declaration-sorter\orders\smacss.cjs121436361000000000 0
 79C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\htmlnano\package.json132821744800468393 0
+86C:\Users\Anton\Documents\GitHub\js-in-6-ours\dist\up_\Module 9\module9.53dbadd1.js.map132832618886142320 0
 87C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\source-map\dist\source-map.js131511695990000000 0
 76C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\slice-ansi\license121436361000000000 0
 83C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\follow-redirects\debug.js121436361000000000 0
+87C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@parcel\transformer-image\lib132821744700933624 1
+78C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\slice-ansi\readme.md121436361000000000 0
+132C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-modules-local-by-default\node_modules\postcss\docs\architecture.md121436361000000000 0
+93C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\internals\iterators-core.js121436361000000000 0
+93C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-reduce-transforms\README.md121436361000000000 0
+78C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\indexes-of\README.md130290660740000000 0
+73C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\shorter-js\dist132821735408757732 1
 72C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\slash\index.js121436361000000000 0
 132C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@parcel\core\test\fixtures\config-extends-not-found\.parcelrc-node-modules121436361000000000 0
 90C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract\2021\BigInt\index.js121436361000000000 0
@@ -5269,8 +5275,8 @@
 71C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\rimraf\bin.js121436361000000000 0
 94C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract\2020\BigInt\remainder.js121436361000000000 0
 72C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\rimraf\LICENSE121436361000000000 0
-91C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss\lib\terminal-highlight.js121436361000000000 0
 80C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\mdn-data\l10n\index.js121436361000000000 0
+91C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss\lib\terminal-highlight.js121436361000000000 0
 80C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\reusify\.coveralls.yml130947787200000000 0
 75C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lodash\fp\wrap.js121436361000000000 0
 92C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\es\instance\copy-within.js121436361000000000 0
@@ -5332,12 +5338,6 @@
 86C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\relateurl\lib\util\object.js130631704790000000 0
 76C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lowlight\readme.md121436361000000000 0
 84C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\relateurl\lib\util\path.js130737020520000000 0
-127C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-modules-extract-imports\node_modules\postcss\lib\warn-once.js121436361000000000 0
-114C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\jsdom\lib\jsdom\living\generated\HTMLTableCellElement.js121436361000000000 0
-92C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\relateurl\lib\relate\absolutize.js130631690480000000 0
-97C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract\2021\IsGenericDescriptor.js121436361000000000 0
-94C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\relateurl\lib\relate\findRelation.js130631687530000000 0
-96C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\http-proxy-middleware\dist\router.d.ts121436361000000000 0
 72C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\dotenv\LICENSE121436361000000000 0
 87C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\relateurl\lib\relate\index.js130516774750000000 0
 92C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\relateurl\lib\relate\relativize.js130631690730000000 0
@@ -5495,7 +5495,6 @@
 76C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\randomfill\test.js131528155570000000 0
 100C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@parcel\core\test\PublicDependency.test.js121436361000000000 0
 81C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\randombytes\.travis.yml121436361000000000 0
-72C:\Users\Anton\Documents\GitHub\js-in-6-ours\js in 6 hours\06_objects.js132790391477939998 0
 99C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\features\array\virtual\reverse.js121436361000000000 0
 89C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\elliptic\lib\elliptic\ec\key.js121436361000000000 0
 80C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\randombytes\browser.js121436361000000000 0
@@ -5554,6 +5553,11 @@
 78C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\posthtml-parser\dist132821744721662203 1
 77C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lodash\_baseMean.js121436361000000000 0
 82C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\querystring\package.json132821744806464942 0
+71C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\nan\README.md132725666240000000 0
+92C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-discard-overridden\LICENSE121436361000000000 0
+96C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\css-tree\lib\syntax\node\WhiteSpace.js121436361000000000 0
+86C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract\2018\ToLength.js121436361000000000 0
+79C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\querystring\Readme.md130069927080000000 0
 88C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\querystring\test\.index.js.un~130069925890000000 0
 83C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\object-keys\.editorconfig121436361000000000 0
 96C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\chrome-trace-event\dist\trace-event.js121436361000000000 0
@@ -5630,6 +5634,7 @@
 98C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\modules\esnext.set.delete-all.js121436361000000000 0
 84C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\object-inspect\test\has.js121436361000000000 0
 78C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\punycode\punycode.js131714306640000000 0
+67C:\Users\Anton\Documents\GitHub\js-in-6-ours\codewars\codewars.html132832603245847541 0
 94C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\modules\es.array.includes.js121436361000000000 0
 82C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss\lib\warning.d.ts121436361000000000 0
 85C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\domutils\lib\feeds.d.ts.map121436361000000000 0
@@ -5714,6 +5719,8 @@
 132C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\browserify-sign\node_modules\readable-stream\lib\internal\streams\state.js121436361000000000 0
 81C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract\2017\abs.js121436361000000000 0
 70C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\psl\index.js121436361000000000 0
+69C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\psl\LICENSE121436361000000000 0
+90C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract\2021\IsExtensible.js121436361000000000 0
 66C:\Users\Anton\Documents\GitHub\js-in-6-ours\.vscode\settings.json132804287677751919 0
 81C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lodash\fp\rangeRight.js121436361000000000 0
 91C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\highlight.js\lib\languages\fix.js121436361000000000 0
@@ -5781,11 +5788,12 @@
 100C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\chrome-trace-event\dist\trace-event.js.map121436361000000000 0
 130C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-modules-local-by-default\node_modules\color-convert\package.json132821744807764199 0
 86C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\posthtml-parser\changelog.md121436361000000000 0
+86C:\Users\Anton\Documents\GitHub\js-in-6-ours\dist\up_\Module 9\module9.84c1462a.js.map132832617745295773 0
 86C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\object.assign\test\native.js121436361000000000 0
 125C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@parcel\reporter-dev-server\node_modules\ws\lib\websocket-server.js121436361000000000 0
 100C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\caniuse-lite\data\features\input-number.js121436361000000000 0
 81C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lodash\_wrapperClone.js121436361000000000 0
-68C:\Users\Anton\Documents\GitHub\js-in-6-ours\module 10\module10.html132832599718819653 0
+68C:\Users\Anton\Documents\GitHub\js-in-6-ours\module 10\module10.html132832613969747955 0
 86C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\posthtml-parser\package.json132821744806524910 0
 129C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@parcel\workers\test\integration\workerfarm\resolve-shared-reference.js121436361000000000 0
 78C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\posthtml-parser\test132821744721892067 1
@@ -5838,6 +5846,7 @@
 105C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lmdb-store\prebuilds\darwin-x64\node.abi88.node121436361000000000 0
 100C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@babel\types\lib\validators\isImmutable.js121012626000000000 0
 80C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-svgo\README.md121436361000000000 0
+86C:\Users\Anton\Documents\GitHub\js-in-6-ours\dist\up_\Module 9\module9.c04a0add.js.map132832618886142320 0
 87C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\path-is-absolute\package.json132821744808733646 0
 93C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract\2021\Number\multiply.js121436361000000000 0
 84C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-svgo\dist\index.js121436361000000000 0
@@ -5853,10 +5862,6 @@
 82C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\neo-async\concatLimit.js121436361000000000 0
 105C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\modules\es.object.prevent-extensions.js121436361000000000 0
 93C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-selector-parser\LICENSE-MIT121436361000000000 0
-78C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lodash\_mergeData.js121436361000000000 0
-97C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract\5\FromPropertyDescriptor.js121436361000000000 0
-110C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-selector-parser\postcss-selector-parser.d.ts121436361000000000 0
-91C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\htmlnano\docs\docs\040-presets.md121436361000000000 0
 91C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-selector-parser\README.md121436361000000000 0
 112C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-modules-local-by-default\node_modules\has-flag132821744807924109 1
 99C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-selector-parser\dist\processor.js121436361000000000 0
@@ -5959,12 +5964,6 @@
 84C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lodash\fp\isArrayBuffer.js121436361000000000 0
 137C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-modules-local-by-default\node_modules\postcss\docs\guidelines\runner.md121436361000000000 0
 102C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-reduce-initial\data\fromInitial.json121436361000000000 0
-91C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-discard-empty\LICENSE-MIT121436361000000000 0
-101C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\jake\node_modules\supports-color\browser.js131663821590000000 0
-74C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lodash\uniqBy.js121436361000000000 0
-95C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@nodelib\fs.stat\out\adapters\fs.d.ts121436361000000000 0
-92C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@nodelib\fs.stat\out\settings.d.ts121436361000000000 0
-85C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-ordered-values\dist132821744721142497 1
 81C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\browserify-des\index.js121436361000000000 0
 92C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-ordered-values\LICENSE-MIT121436361000000000 0
 79C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\icss-utils\LICENSE.md121436361000000000 0
@@ -6064,8 +6063,6 @@
 94C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-normalize-string\LICENSE-MIT121436361000000000 0
 93C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-normalize-repeat-style\dist132821744720199509 1
 99C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\handlebars\dist\handlebars.runtime.amd.js121436361000000000 0
-100C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-normalize-repeat-style\LICENSE-MIT121436361000000000 0
-109C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\jsdom\lib\jsdom\living\generated\HTMLSlotElement.js121436361000000000 0
 96C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract\2018\SameValueNonNumber.js121436361000000000 0
 98C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-normalize-repeat-style\README.md121436361000000000 0
 76C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\msgpackr\pack.d.ts121436361000000000 0
@@ -6664,6 +6661,10 @@
 94C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-minify-selectors\LICENSE-MIT121436361000000000 0
 107C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-modules\node_modules\picocolors\README.md121436361000000000 0
 73C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lmdb-store\test132821744742985916 1
+96C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\es\reflect\get-prototype-of.js121436361000000000 0
+86C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract\2020\BinaryOr.js121436361000000000 0
+88C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-modules\build\index.js121436361000000000 0
+94C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\fast-json-stable-stringify\benchmark132821744734494628 1
 105C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-modules\build\css-loader-core\loader.js121436361000000000 0
 73C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\jake\bin\cli.js132361568290000000 0
 87C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@parcel\utils\src\throttle.js121436361000000000 0
@@ -6671,9 +6672,6 @@
 87C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-minify-selectors\dist132821744708915389 1
 92C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-minify-selectors\README.md121436361000000000 0
 88C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lmdb-store\prebuilds\linux-x64132821744742453096 1
-96C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-minify-selectors\dist\index.js121436361000000000 0
-92C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\is-fullwidth-code-point\index.d.ts121436361000000000 0
-83C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\har-schema\lib\query.json131370181680000000 0
 84C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\nth-check\lib\compile.d.ts121436361000000000 0
 79C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\json5\lib\register.js131658179830000000 0
 87C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-minify-params\LICENSE121436361000000000 0
@@ -6736,6 +6734,7 @@
 77C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\neo-async\detect.js121436361000000000 0
 83C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lodash\_escapeHtmlChar.js121436361000000000 0
 77C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\pn\child_process.js131594838820000000 0
+75C:\Users\Anton\Documents\GitHub\js-in-6-ours\dist\up_\Module 9\module9.html132832618885942415 0
 96C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\json-parse-even-better-errors\index.js121436361000000000 0
 102C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-merge-longhand\dist\lib\parseTrbl.js121436361000000000 0
 97C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\postcss-merge-longhand\dist\lib\trbl.js121436361000000000 0
@@ -6926,7 +6925,7 @@
 80C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\picomatch\lib\utils.js121436361000000000 0
 96C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\highlight.js\lib\languages\protobuf.js121436361000000000 0
 90C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\picocolors\picocolors.browser.js121436361000000000 0
-78C:\Users\Anton\Documents\GitHub\js-in-6-ours\dist\js-in-6-ours.356c6128.js.map132832598433911728 0
+78C:\Users\Anton\Documents\GitHub\js-in-6-ours\dist\js-in-6-ours.356c6128.js.map132832617745295773 0
 82C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\picocolors\picocolors.js121436361000000000 0
 86C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lodash\fp\defaultsDeepAll.js121436361000000000 0
 103C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\internals\dom-token-list-prototype.js121436361000000000 0
@@ -6977,6 +6976,11 @@
 85C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\path-to-regexp\package.json132821744808723652 0
 87C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\jake\node_modules\ansi-styles132821744810122852 1
 74C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\path-key\license130412725910000000 0
+95C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract\2020\BigInt\bitwiseAND.js121436361000000000 0
+79C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\path-key\package.json132821744808723652 0
+98C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\fast-glob\out\providers\filters\error.js121436361000000000 0
+85C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\es\string\strike.js121436361000000000 0
+73C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\htmlparser2\lib132821744733595143 1
 76C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\path-is-inside\lib132821744722211882 1
 97C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\caniuse-lite\data\features\autofocus.js121436361000000000 0
 84C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\path-is-inside\LICENSE.txt131180239530000000 0
@@ -7125,6 +7129,8 @@
 83C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\http-proxy\lib\http-proxy132821744720209499 1
 70C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\ora\index.js121436361000000000 0
 69C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\ora\license121436361000000000 0
+142C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-false\package.json121436361000000000 0
+71C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\ora\readme.md121436361000000000 0
 90C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract\2016\HourFromTime.js121436361000000000 0
 72C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\optionator\lib132821744703991884 1
 89C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\es\reflect\construct.js121436361000000000 0
@@ -7547,6 +7553,9 @@
 85C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\http-signature\lib\index.js131480975920000000 0
 94C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@babel\helper-module-imports\LICENSE121012626000000000 0
 83C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\loader-utils\lib\index.js121436361000000000 0
+68C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\nanoid\bin132821744726215543 1
+75C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lodash\fp\date.js121436361000000000 0
+94C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\is-number-object\.github\FUNDING.yml121436361000000000 0
 77C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\nanoid\index.dev.js121436361000000000 0
 88C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract\2017\DaysInYear.js121436361000000000 0
 78C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\nanoid\index.prod.js121436361000000000 0
@@ -7674,6 +7683,9 @@
 76C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\msgpackr\unpack.js121436361000000000 0
 86C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\msgpackr\tests\example3.json121436361000000000 0
 84C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\msgpackr\tests\floats.json121436361000000000 0
+82C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@types\node\console.d.ts132821694670000000 0
+85C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\available-typed-arrays\test132821744736483490 1
+81C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract\2021\Set.js121436361000000000 0
 90C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\msgpackr\tests\sample-large.json121436361000000000 0
 88C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\imurmurhash\imurmurhash.min.js130218506260000000 0
 97C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\caniuse-lite\data\features\web-share.js121436361000000000 0
@@ -7813,7 +7825,6 @@
 79C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\mdn-data\package.json132821744809833021 0
 127C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@parcel\node-resolver-core\test\fixture\packages\source-alias\dist.js121436361000000000 0
 76C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\mdn-data\README.md121436361000000000 0
-80C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\mdn-data\l10n\css.json121436361000000000 0
 125C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-module132821744719729778 1
 84C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\mdn-data\css\at-rules.json121436361000000000 0
 91C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\mdn-data\css\at-rules.schema.json121436361000000000 0
@@ -7958,6 +7969,7 @@
 72C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lodash\date.js121436361000000000 0
 89C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract\2015\MinFromTime.js121436361000000000 0
 76C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lodash\debounce.js121436361000000000 0
+63C:\Users\Anton\Documents\GitHub\js-in-6-ours\dist\up_\module 11132832618886182299 1
 80C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lodash\defaultsDeep.js121436361000000000 0
 94C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\highlight.js\lib\languages\scilab.js121436361000000000 0
 104C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\caniuse-lite\data\features\css-font-stretch.js121436361000000000 0
@@ -7986,6 +7998,7 @@
 70C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lodash\eq.js121436361000000000 0
 108C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@parcel\core\test\fixtures\config-plugin-not-found132821744701243472 1
 74C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lodash\escape.js121436361000000000 0
+86C:\Users\Anton\Documents\GitHub\js-in-6-ours\dist\up_\Module 9\module9.29fae34e.js.map132832618886152312 0
 75C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\.bin\browserslist132821744817803646 0
 74C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\index.js121436361000000000 0
 80C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lodash\escapeRegExp.js121436361000000000 0
@@ -8174,6 +8187,7 @@
 73C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lodash\plant.js121436361000000000 0
 87C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@parcel\utils\src\Deferred.js121436361000000000 0
 78C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lodash\propertyOf.js121436361000000000 0
+65C:\Users\Anton\Documents\GitHub\js-in-6-ours\Lessons\lessons-3.js132832608610510002 0
 86C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\features\set\from.js121436361000000000 0
 77C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lodash\pullAllBy.js121436361000000000 0
 89C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\caniuse-lite\data\regions\ER.js121436361000000000 0
@@ -8593,7 +8607,6 @@
 86C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\internals\classof.js121436361000000000 0
 91C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract\2019\UTF16Encoding.js121436361000000000 0
 79C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lodash\_isMaskable.js121436361000000000 0
-73C:\Users\Anton\Documents\GitHub\js-in-6-ours\js in 6 hours\04_function.js132790391476660000 0
 92C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@nodelib\fs.walk\out\settings.d.ts121436361000000000 0
 80C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\foreach\component.json130558410840000000 0
 103C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@parcel\transformer-css\src\CSSTransformer.js121436361000000000 0
@@ -9060,7 +9073,6 @@
 80C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lodash\fp\unzipWith.js121436361000000000 0
 89C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\internals\math-expm1.js121436361000000000 0
 80C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lodash\fp\upperCase.js121436361000000000 0
-72C:\Users\Anton\Documents\GitHub\js-in-6-ours\js in 6 hours\03_strings.js132790391476080000 0
 91C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@parcel\babylon-walk\lib\scope.js121436361000000000 0
 81C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lodash\fp\upperFirst.js121436361000000000 0
 100C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\es\typed-array\to-locale-string.js121436361000000000 0
@@ -9241,13 +9253,12 @@
 87C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@parcel\core\lib\constants.js121436361000000000 0
 112C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lmdb-store\dependencies\lmdb\libraries\liblmdb\LICENSE121436361000000000 0
 111C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lmdb-store\dependencies\lmdb\libraries\liblmdb\lmdb.h121436361000000000 0
+68C:\Users\Anton\Documents\GitHub\js-in-6-ours\Lessons\lessons 9-10.js132832608609840000 0
 87C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract\2020\ToNumeric.js121436361000000000 0
 115C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lmdb-store\dependencies\lmdb\libraries\liblmdb\mdb_drop.1121436361000000000 0
 115C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lmdb-store\dependencies\lmdb\libraries\liblmdb\mdb_dump.c121436361000000000 0
 82C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\es\array\sort.js121436361000000000 0
 115C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lmdb-store\dependencies\lmdb\libraries\liblmdb\mdb_load.1121436361000000000 0
-115C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lmdb-store\dependencies\lmdb\libraries\liblmdb\mdb_load.c121436361000000000 0
-96C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\handlebars\lib\handlebars\exception.js121436361000000000 0
 87C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@types\node\trace_events.d.ts132821694670000000 0
 115C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lmdb-store\dependencies\lmdb\libraries\liblmdb\mdb_stat.1121436361000000000 0
 115C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\lmdb-store\dependencies\lmdb\libraries\liblmdb\mdb_stat.c121436361000000000 0
@@ -9448,6 +9459,8 @@
 89C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@parcel\diagnostic\package.json132821744808733646 0
 84C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\jsdom\lib\jsdom\living\svg132821744745214637 1
 75C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\format\.npmignore130580529530000000 0
+77C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\ajv\lib\dotjs\if.js121436361000000000 0
+90C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\jsdom\lib\jsdom\living\traversal132821744745294596 1
 105C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\highlight.js\scss\atelier-sulphurpool-dark.scss121436361000000000 0
 91C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\jsdom\lib\jsdom\living\websockets132821744745364560 1
 84C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\is-number-object\.eslintrc121436361000000000 0
@@ -9459,6 +9472,7 @@
 106C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\jsdom\lib\jsdom\living\xmlhttprequest-symbols.js121436361000000000 0
 91C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\asynckit\lib\readable_parallel.js131101905110000000 0
 101C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\jsdom\lib\jsdom\living\xhr\FormData-impl.js121436361000000000 0
+87C:\Users\Anton\Documents\GitHub\js-in-6-ours\dist\up_\codewars\codewars.0f0bcf9b.js.map132832617745295773 0
 118C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\jsdom\lib\jsdom\living\xhr\XMLHttpRequestEventTarget-impl.js121436361000000000 0
 113C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\jsdom\lib\jsdom\living\xhr\XMLHttpRequestUpload-impl.js121436361000000000 0
 103C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\jsdom\lib\jsdom\living\window\BarProp-impl.js121436361000000000 0
@@ -9755,6 +9769,7 @@
 69C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\.bin\cssesc132821744816034670 0
 104C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\jsdom\lib\jsdom\living\generated\MouseEvent.js121436361000000000 0
 96C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\handlebars\dist\cjs\handlebars\helpers132831978610324783 1
+76C:\Users\Anton\Documents\GitHub\js-in-6-ours\dist\up_\codewars\codewars.html132832618885932419 0
 91C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@babel\traverse\lib\path\index.js121012626000000000 0
 110C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\jsdom\lib\jsdom\living\generated\MutationObserver.js121436361000000000 0
 92C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\highlight.js\lib\languages\perl.js121436361000000000 0
@@ -9809,6 +9824,7 @@
 106C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\jsdom\lib\jsdom\living\file-api\FileList-impl.js121436361000000000 0
 102C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@swc\helpers\lib\_class_private_field_get.js132811082760000000 0
 106C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\jsdom\lib\jsdom\living\events\CloseEvent-impl.js121436361000000000 0
+86C:\Users\Anton\Documents\GitHub\js-in-6-ours\dist\up_\Module 9\module9.5c65a923.js.map132832617745295773 0
 88C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@babel\template\lib\literal.js121012626000000000 0
 100C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\highlight.js\lib\languages\php-template.js121436361000000000 0
 80C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@parcel\source-map\src132821744716251762 1
@@ -10061,6 +10077,7 @@
 81C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\is-plain-obj\index.d.ts121436361000000000 0
 92C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\modules\es.date.to-json.js121436361000000000 0
 82C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\is-number-object\.github132821744731632891 1
+87C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\is-number-object\CHANGELOG.md121436361000000000 0
 82C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\is-number-object\LICENSE121436361000000000 0
 87C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\is-number-object\package.json132821744810682543 0
 116C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@parcel\transformer-json\node_modules\json5\lib\require.js121436361000000000 0
@@ -10280,6 +10297,7 @@
 90C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\css-tree\lib\convertor\create.js121436361000000000 0
 100C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\icss-utils\node_modules\picocolors\LICENSE121436361000000000 0
 108C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\icss-utils\node_modules\picocolors\picocolors.d.ts121436361000000000 0
+68C:\Users\Anton\Documents\GitHub\js-in-6-ours\dist\index.af814d91.css132832617745075896 0
 85C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@parcel\workers\src\threads132821744711194670 1
 94C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\highlight.js\lib\languages\x86asm.js121436361000000000 0
 106C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\icss-utils\node_modules\picocolors\picocolors.js121436361000000000 0
@@ -10462,6 +10480,7 @@
 78C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\callsites\index.d.ts121436361000000000 0
 97C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\modules\esnext.weak-set.from.js121436361000000000 0
 103C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\highlight.js\styles\atelier-estuary-light.css121436361000000000 0
+68C:\Users\Anton\Documents\GitHub\js-in-6-ours\dist\index.691f20ae.css132832618885942415 0
 101C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\highlight.js\styles\atelier-forest-dark.css121436361000000000 0
 69C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\astring\bin132821744697995315 1
 102C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\highlight.js\styles\atelier-forest-light.css121436361000000000 0
@@ -10762,6 +10781,7 @@
 123C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\hash-base\node_modules\readable-stream\lib\_stream_passthrough.js121436361000000000 0
 117C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\hash-base\node_modules\readable-stream\lib\internal\streams132821744712993631 1
 109C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\handlebars\dist\amd\handlebars\compiler\code-gen.js121436361000000000 0
+135C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\hash-base\node_modules\readable-stream\lib\internal\streams\async_iterator.js121436361000000000 0
 128C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\hash-base\node_modules\readable-stream\lib\internal\streams\destroy.js121436361000000000 0
 133C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\hash-base\node_modules\readable-stream\lib\internal\streams\from-browser.js121436361000000000 0
 92C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\fast-json-stable-stringify\.github132821744735424111 1
@@ -10941,10 +10961,12 @@
 95C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\globals\node_modules\type-fest\source132821744736843276 1
 107C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\caniuse-lite\data\features\css-media-scripting.js121436361000000000 0
 93C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\globals\node_modules\type-fest\ts41132821744736673363 1
+66C:\Users\Anton\Documents\GitHub\js-in-6-ours\Module 4\lessons-4.js132832607311720000 0
 83C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@parcel\watcher\src\linux132821744729093962 1
 88C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\es\symbol\match-all.js121436361000000000 0
 97C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract\2021\ToIntegerOrInfinity.js121436361000000000 0
 109C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\globals\node_modules\type-fest\ts41\camel-case.d.ts121436361000000000 0
+88C:\Users\Anton\Documents\GitHub\js-in-6-ours\dist\up_\module 10\module10.2d263288.js.map132832618886152312 0
 82C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\ansi-styles\package.json132821744812901266 0
 113C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\globals\node_modules\type-fest\ts41\delimiter-case.d.ts121436361000000000 0
 90C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\features\map\map-keys.js121436361000000000 0
@@ -11106,6 +11128,7 @@
 92C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\fast-json-stable-stringify\LICENSE121436361000000000 0
 97C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\fast-json-stable-stringify\package.json132821744811741935 0
 103C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\fast-json-stable-stringify\example\key_cmp.js121436361000000000 0
+95C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract\2021\SetFunctionLength.js121436361000000000 0
 102C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\caniuse-lite\data\features\scrollintoview.js121436361000000000 0
 102C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\fast-json-stable-stringify\example\nested.js121436361000000000 0
 99C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\fast-json-stable-stringify\example\str.js121436361000000000 0
@@ -11120,8 +11143,8 @@
 83C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\cosmiconfig\dist\types.js121436361000000000 0
 81C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\fast-glob\out\providers132821744719060164 1
 88C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\fast-glob\out\utils\array.d.ts121436361000000000 0
-96C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract\2021\SpeciesConstructor.js121436361000000000 0
 88C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\fast-glob\out\utils\errno.d.ts121436361000000000 0
+96C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract\2021\SpeciesConstructor.js121436361000000000 0
 85C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\fast-glob\out\utils\fs.d.ts121436361000000000 0
 83C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\fast-glob\out\utils\fs.js121436361000000000 0
 88C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\fast-glob\out\utils\pattern.js121436361000000000 0
@@ -11311,7 +11334,6 @@
 105C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\csso\lib\restructure\prepare\processSelector.js121436361000000000 0
 105C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract\2021\CanonicalNumericIndexString.js121436361000000000 0
 89C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract\2021\CodePointAt.js121436361000000000 0
-74C:\Users\Anton\Documents\GitHub\js-in-6-ours\js in 6 hours\jsin6hours.html132832601010190000 0
 100C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract\2021\CreateIterResultObject.js121436361000000000 0
 101C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract\2021\CreateListFromArrayLike.js121436361000000000 0
 98C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract\2021\CreateMethodProperty.js121436361000000000 0
@@ -11323,6 +11345,7 @@
 99C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract\2021\DeletePropertyOrThrow.js121436361000000000 0
 94C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract\2021\FlattenIntoArray.js121436361000000000 0
 81C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract\2021\Get.js121436361000000000 0
+56C:\Users\Anton\Documents\GitHub\js-in-6-ours\dist\app.js132832610833826452 0
 96C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract\2021\GetOwnPropertyKeys.js121436361000000000 0
 105C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract\2021\GetPrototypeFromConstructor.js121436361000000000 0
 123C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\css-modules-loader-core\node_modules\postcss\lib\map-generator.js131386303530000000 0
@@ -11370,10 +11393,6 @@
 92C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract\2021\PromiseResolve.js121436361000000000 0
 90C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract\2021\RegExpCreate.js121436361000000000 0
 100C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract\2021\RequireObjectCoercible.js121436361000000000 0
-82C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@types\node\console.d.ts132821694670000000 0
-85C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\available-typed-arrays\test132821744736483490 1
-81C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract\2021\Set.js121436361000000000 0
-95C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract\2021\SetFunctionLength.js121436361000000000 0
 93C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract\2021\SetFunctionName.js121436361000000000 0
 95C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract\2021\SetIntegrityLevel.js121436361000000000 0
 102C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract\2021\StrictEqualityComparison.js121436361000000000 0
@@ -11427,6 +11446,7 @@
 75C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\README.md121436361000000000 0
 95C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract\2021\Number\bitwiseNOT.js121436361000000000 0
 94C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract\2021\Number\bitwiseOR.js121436361000000000 0
+82C:\Users\Anton\Documents\GitHub\js-in-6-ours\dist\up_\Module 9\module9.13fca9e5.js132832618885942415 0
 109C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\caniuse-lite\data\features\font-family-system-ui.js121436361000000000 0
 91C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract\2015\TimeWithinDay.js121436361000000000 0
 95C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract\2021\Number\bitwiseXOR.js121436361000000000 0
@@ -12016,7 +12036,7 @@
 86C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\convert-source-map\README.md121436361000000000 0
 86C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract\2016\MakeDate.js121436361000000000 0
 86C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract\2016\MakeTime.js121436361000000000 0
-84C:\Users\Anton\Documents\GitHub\js-in-6-ours\dist\up_\module 10\module10.d5453301.js132832598468467665 0
+84C:\Users\Anton\Documents\GitHub\js-in-6-ours\dist\up_\module 10\module10.d5453301.js132832617745075896 0
 89C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract\2016\MinFromTime.js121436361000000000 0
 91C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract\2016\MonthFromTime.js121436361000000000 0
 88C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\es-abstract\2016\msFromTime.js121436361000000000 0
@@ -12737,6 +12757,7 @@
 86C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\css-select\lib\attributes.js121436361000000000 0
 113C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\modules\esnext.reflect.get-own-metadata-keys.js121436361000000000 0
 89C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\css-select\lib\compile.d.ts.map121436361000000000 0
+86C:\Users\Anton\Documents\GitHub\js-in-6-ours\dist\up_\Module 9\module9.c7de5032.js.map132832618886142320 0
 80C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@parcel\runtime-js\lib132821744709075320 1
 89C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\css-select\lib\general.d.ts.map121436361000000000 0
 83C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\css-select\lib\general.js121436361000000000 0
@@ -13114,7 +13135,6 @@
 96C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\modules\esnext.number.range.js121436361000000000 0
 105C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\stable\object\get-own-property-names.js121436361000000000 0
 90C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\stable\object\has-own.js121436361000000000 0
-88C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\stable\object\index.js121436361000000000 0
 92C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\stable\object\is-frozen.js121436361000000000 0
 85C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\stable\object\is.js121436361000000000 0
 114C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@swc\helpers\lib\_class_static_private_field_spec_get.js132811082760000000 0
@@ -13182,7 +13202,6 @@
 76C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@parcel\fs\LICENSE121436361000000000 0
 97C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\stable\instance\reduce-right.js121436361000000000 0
 91C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\stable\instance\repeat.js121436361000000000 0
-96C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\stable\instance\replace-all.js121436361000000000 0
 89C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\caniuse-lite\data\regions\RS.js121436361000000000 0
 92C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\stable\instance\reverse.js121436361000000000 0
 99C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\features\symbol\async-iterator.js121436361000000000 0
@@ -13217,7 +13236,6 @@
 91C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\stable\data-view\index.js121436361000000000 0
 81C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\acorn-globals\README.md121436361000000000 0
 100C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\stable\array-buffer\constructor.js121436361000000000 0
-69C:\Users\Anton\Documents\GitHub\js-in-6-ours\js in 6 hours\01_base.js132790391473290000 0
 84C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\stable\array\at.js121436361000000000 0
 88C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@nodelib\fs.stat\out\providers132821744701863118 1
 89C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\stable\array\entries.js121436361000000000 0
@@ -13613,6 +13631,7 @@
 92C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\internals\engine-is-ios.js121436361000000000 0
 93C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\internals\engine-is-node.js121436361000000000 0
 101C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\internals\engine-is-webos-webkit.js121436361000000000 0
+82C:\Users\Anton\Documents\GitHub\js-in-6-ours\dist\up_\Module 9\module9.946fc8d4.js132832617745075896 0
 91C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\internals\entry-unbind.js121436361000000000 0
 92C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\internals\entry-virtual.js121436361000000000 0
 92C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\internals\enum-bug-keys.js121436361000000000 0
@@ -14200,7 +14219,7 @@
 95C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\es\object\set-prototype-of.js121436361000000000 0
 85C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\es\object\values.js121436361000000000 0
 84C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\es\number\index.js121436361000000000 0
-60C:\Users\Anton\Documents\GitHub\js-in-6-ours\dist\index.html132832600680442665 0
+60C:\Users\Anton\Documents\GitHub\js-in-6-ours\dist\index.html132832618885932419 0
 88C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\es\number\is-finite.js121436361000000000 0
 89C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\core-js\es\number\is-integer.js121436361000000000 0
 102C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\caniuse-lite\data\features\css-dir-pseudo.js121436361000000000 0
@@ -14820,6 +14839,7 @@
 104C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\caniuse-lite\data\features\webkit-user-drag.js121436361000000000 0
 107C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@babel\highlight\node_modules\color-name\index.js131446304070000000 0
 92C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\caniuse-lite\data\features\webm.js121436361000000000 0
+86C:\Users\Anton\Documents\GitHub\js-in-6-ours\dist\up_\Module 9\module9.2ee27d77.js.map132832617745295773 0
 98C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\caniuse-lite\data\features\webworkers.js121436361000000000 0
 103C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@parcel\transformer-raw\src\RawTransformer.js121436361000000000 0
 93C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\caniuse-lite\data\features\webxr.js121436361000000000 0
@@ -14988,7 +15008,7 @@
 76C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\boolbase\README.md130369490040000000 0
 103C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@babel\core\lib\config\helpers\environment.js121012626000000000 0
 72C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\bl\.travis.yml121436361000000000 0
-74C:\Users\Anton\Documents\GitHub\js-in-6-ours\dist\js-in-6-ours.356c6128.js132832598433871731 0
+74C:\Users\Anton\Documents\GitHub\js-in-6-ours\dist\js-in-6-ours.356c6128.js132832617745145861 0
 70C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\bl\README.md121436361000000000 0
 65C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\bl\test132821744710565006 1
 76C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\bl\test\convert.js121436361000000000 0
@@ -15221,6 +15241,7 @@
 79C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@types\node\README.md132821694670000000 0
 76C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@types\node\stream132821744711544462 1
 81C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@types\node\stream.d.ts132821694670000000 0
+82C:\Users\Anton\Documents\GitHub\js-in-6-ours\dist\up_\Module 9\module9.29fae34e.js132832618885942415 0
 89C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@types\node\string_decoder.d.ts132821694670000000 0
 81C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@types\node\timers.d.ts132821694670000000 0
 78C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@types\node\tls.d.ts132821694670000000 0
@@ -15373,6 +15394,7 @@
 87C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@parcel\watcher\index.js.flow121436361000000000 0
 86C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@parcel\watcher\package.json132821744808913544 0
 88C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@parcel\watcher\src\Backend.cc121436361000000000 0
+83C:\Users\Anton\Documents\GitHub\js-in-6-ours\dist\up_\codewars\codewars.0f0bcf9b.js132832617745075896 0
 88C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@parcel\watcher\src\Backend.hh121436361000000000 0
 88C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@parcel\watcher\src\binding.cc121436361000000000 0
 89C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@parcel\watcher\src\Debounce.hh121436361000000000 0
@@ -15459,6 +15481,7 @@
 105C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@parcel\transformer-posthtml\lib\loadPlugins.js121436361000000000 0
 113C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@parcel\transformer-posthtml\lib\PostHTMLTransformer.js121436361000000000 0
 93C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@parcel\transformer-postcss\LICENSE121436361000000000 0
+98C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@parcel\transformer-postcss\package.json132821744800308471 0
 86C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@parcel\transformer-json\src132821744700403950 1
 101C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@parcel\transformer-json\node_modules\json5132821744809643134 1
 105C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@parcel\transformer-json\node_modules\json5\lib132821744729323823 1
@@ -15548,6 +15571,7 @@
 94C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@parcel\source-map\dist\wasm.js.flow121436361000000000 0
 96C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@parcel\runtime-service-worker\LICENSE121436361000000000 0
 101C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@parcel\runtime-service-worker\package.json132821744800338450 0
+88C:\Users\Anton\Documents\GitHub\js-in-6-ours\dist\up_\module 10\module10.852b14d9.js.map132832618886152312 0
 116C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@parcel\runtime-service-worker\src\ServiceWorkerRuntime.js121436361000000000 0
 114C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@parcel\runtime-react-refresh\src\ReactRefreshRuntime.js121436361000000000 0
 84C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@parcel\runtime-js\LICENSE121436361000000000 0
@@ -15811,7 +15835,7 @@
 80C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@parcel\diagnostic\src132821744723676806 1
 81C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@parcel\diagnostic\test132821744723866697 1
 94C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@parcel\diagnostic\src\diagnostic.js121436361000000000 0
-77C:\Users\Anton\Documents\GitHub\js-in-6-ours\dist\up_\module 10\module10.html132832599719998985 0
+77C:\Users\Anton\Documents\GitHub\js-in-6-ours\dist\up_\module 10\module10.html132832618885942415 0
 96C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@parcel\diagnostic\lib\diagnostic.d.ts121436361000000000 0
 94C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@parcel\diagnostic\lib\diagnostic.js121436361000000000 0
 81C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@parcel\core\index.d.ts121436361000000000 0
@@ -16213,6 +16237,7 @@
 96C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@babel\core\node_modules\debug\LICENSE121436361000000000 0
 93C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@babel\core\node_modules\.bin\json5132821744817074058 0
 80C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@babel\core\lib\config132821744716911385 1
+72C:\Users\Anton\Documents\GitHub\js-in-6-ours\dist\index.af814d91.css.map132832617745295773 0
 87C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@babel\core\lib\gensync-utils132821744717700936 1
 82C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@babel\core\lib\index.js121012626000000000 0
 82C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\@babel\core\lib\parse.js121012626000000000 0
@@ -16288,14 +16313,20 @@
 71C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\.bin\uuid.ps1132821744818843047 0
 72C:\Users\Anton\Documents\GitHub\js-in-6-ours\node_modules\.bin\which.cmd132821744818923024 0
 66C:\Users\Anton\Documents\GitHub\js-in-6-ours\Module 9\module-09.js132820550585971049 0
+66C:\Users\Anton\Documents\GitHub\js-in-6-ours\Module 9\module9.html132832614838807801 0
 62C:\Users\Anton\Documents\GitHub\js-in-6-ours\Module 8\node-tut132813939889563928 1
 71C:\Users\Anton\Documents\GitHub\js-in-6-ours\Module 8\node-tut\index.js132819697690645637 0
 68C:\Users\Anton\Documents\GitHub\js-in-6-ours\Module 7\js-module-6.js132808432387308123 0
+65C:\Users\Anton\Documents\GitHub\js-in-6-ours\Module 4\lessos-4.js132832607312220000 0
+68C:\Users\Anton\Documents\GitHub\js-in-6-ours\Module 11\module11.html132832617397072307 0
 62C:\Users\Anton\Documents\GitHub\js-in-6-ours\module 10\hhtp.js132829476585898576 0
-72C:\Users\Anton\Documents\GitHub\js-in-6-ours\js in 6 hours\02_numbers.js132790391475050002 0
-71C:\Users\Anton\Documents\GitHub\js-in-6-ours\js in 6 hours\05_Arrays.js132790391477480000 0
+67C:\Users\Anton\Documents\GitHub\js-in-6-ours\Lessons\lessons 1-2.js132832608608960000 0
+79C:\Users\Anton\Documents\GitHub\js-in-6-ours\exersise 3-5\exercises_module_3.js132832608012060002 0
+79C:\Users\Anton\Documents\GitHub\js-in-6-ours\exersise 3-5\exercises_module_5.js132832608013110000 0
+60C:\Users\Anton\Documents\GitHub\js-in-6-ours\dist\app.js.map132832610833846447 0
 67C:\Users\Anton\Documents\GitHub\js-in-6-ours\dist\index.5c65a923.js132821775860464665 0
 67C:\Users\Anton\Documents\GitHub\js-in-6-ours\dist\index.690daacd.js132831907240178339 0
+72C:\Users\Anton\Documents\GitHub\js-in-6-ours\dist\index.691f20ae.css.map132832618886142320 0
 71C:\Users\Anton\Documents\GitHub\js-in-6-ours\dist\index.716eefed.js.map132828645490147016 0
 67C:\Users\Anton\Documents\GitHub\js-in-6-ours\dist\index.84c1462a.js132826596532738427 0
 67C:\Users\Anton\Documents\GitHub\js-in-6-ours\dist\index.8646aa75.js132821791435122061 0
@@ -16306,5 +16337,22 @@
 67C:\Users\Anton\Documents\GitHub\js-in-6-ours\dist\index.d5453301.js132832598113385112 0
 79C:\Users\Anton\Documents\GitHub\js-in-6-ours\dist\js_in_6_hours.e6156308.js.map132832600680592575 0
 74C:\Users\Anton\Documents\GitHub\js-in-6-ours\dist\module10.4fe9114e.js.map132832598113045305 0
-53C:\Users\Anton\Documents\GitHub\js-in-6-ours\dist\up_132832600682259745 1
-88C:\Users\Anton\Documents\GitHub\js-in-6-ours\dist\up_\module 10\module10.d5453301.js.map132832598468487653 0
+53C:\Users\Anton\Documents\GitHub\js-in-6-ours\dist\up_132832617022370944 1
+62C:\Users\Anton\Documents\GitHub\js-in-6-ours\dist\up_\codewars132832618886162323 1
+62C:\Users\Anton\Documents\GitHub\js-in-6-ours\dist\up_\Module 9132832618886182299 1
+86C:\Users\Anton\Documents\GitHub\js-in-6-ours\dist\up_\Module 9\module9.13fca9e5.js.map132832618886142320 0
+82C:\Users\Anton\Documents\GitHub\js-in-6-ours\dist\up_\Module 9\module9.28073025.js132832617745935406 0
+86C:\Users\Anton\Documents\GitHub\js-in-6-ours\dist\up_\Module 9\module9.28073025.js.map132832617745975387 0
+82C:\Users\Anton\Documents\GitHub\js-in-6-ours\dist\up_\Module 9\module9.2ee27d77.js132832617745075896 0
+82C:\Users\Anton\Documents\GitHub\js-in-6-ours\dist\up_\Module 9\module9.53dbadd1.js132832618885942415 0
+82C:\Users\Anton\Documents\GitHub\js-in-6-ours\dist\up_\Module 9\module9.5c65a923.js132832617745195829 0
+82C:\Users\Anton\Documents\GitHub\js-in-6-ours\dist\up_\Module 9\module9.84c1462a.js132832617745145861 0
+82C:\Users\Anton\Documents\GitHub\js-in-6-ours\dist\up_\Module 9\module9.c04a0add.js132832618885942415 0
+84C:\Users\Anton\Documents\GitHub\js-in-6-ours\dist\up_\module 11\module11.3a735c03.js132832617745075896 0
+88C:\Users\Anton\Documents\GitHub\js-in-6-ours\dist\up_\module 11\module11.3a735c03.js.map132832617745295773 0
+77C:\Users\Anton\Documents\GitHub\js-in-6-ours\dist\up_\module 11\module11.html132832618885942415 0
+84C:\Users\Anton\Documents\GitHub\js-in-6-ours\dist\up_\module 10\module10.c35aab42.js132832617745195829 0
+88C:\Users\Anton\Documents\GitHub\js-in-6-ours\dist\up_\module 10\module10.c35aab42.js.map132832617745315762 0
+88C:\Users\Anton\Documents\GitHub\js-in-6-ours\dist\up_\module 10\module10.d5453301.js.map132832617745295773 0
+87C:\Users\Anton\Documents\GitHub\js-in-6-ours\dist\up_\codewars\codewars.63736ebe.js.map132832618886142320 0
+64C:\Users\Anton\Documents\GitHub\js-in-6-ours\codewars\codewar.js132832603853846396 0
