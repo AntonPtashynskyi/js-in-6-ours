@@ -1,0 +1,2 @@
+const o=setTimeout((()=>{console.log("Hello!")}),1e3);clearTimeout(o);const e=new Date;console.log(e.toString()),console.dir(e),console.log((new Date).getTime());const l=new Date("March 10, 2022 14:30");console.log(l),console.log(e.getDate()),console.log(e.getDay()),console.log(e.getMonth()),console.log(e.getFullYear()),console.log(e.getHours()),console.log(e.getMinutes()),console.log(e.getSeconds()),console.log(e.getTime()),l.setMinutes(59),l.setHours(22),console.log(l),console.log(l.toDateString());
+//# sourceMappingURL=module9.c7de5032.js.map

@@ -1,0 +1,26 @@
+.list {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  outline: 1px solid tomato;
+}
+
+.is-active {
+  background-color: tomato;
+  color: white;
+}
+
+.alert {
+  padding: 15px;
+  border: 1px solid #d6e9c6;
+  border-radius: 4px;
+  color: #3c763d;
+  background-color: #dff0d8;
+}
+
+.link {
+  text-decoration: none;
+  color: black;
+}
+
+/*# sourceMappingURL=index.af814d91.css.map */
