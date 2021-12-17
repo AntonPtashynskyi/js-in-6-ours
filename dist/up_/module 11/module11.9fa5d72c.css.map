@@ -1,0 +1,1 @@
+{"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA;AACA","sources":["module 11/module11.css"],"sourcesContent":["body {\r\n  background-color: rgb(170, 206, 178);\r\n}\r\n\r\n.container {\r\n  margin: 50px 50px;\r\n}\r\n"],"names":[],"version":3,"file":"module11.9fa5d72c.css.map","sourceRoot":"/__parcel_source_root/"}

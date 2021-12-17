@@ -50,3 +50,43 @@
 
 // console.log(uniqueInOrder('AAAABBBCCDAABBB'));
 // ========================================================================================ss
+// Duplicate Encoder
+
+// function duplicateEncode(word) {
+//   let object = {};
+
+//   const letters = word.toLowerCase().split('');
+//   for (let i = 0; i < letters.length; i += 1) {
+//     let x = letters[i];
+
+//     if (object[x] === undefined) {
+//       object[x] = 1;
+//     } else {
+//       object[x] += 1;
+//     }
+//   }
+
+//   return letters.map((letter) => (object[letter] === 1 ? '(' : ')')).join('');
+// }
+
+// another
+
+// function duplicateEncode(word) {
+//   return word
+//     .toLowerCase()
+//     .split('')
+//     .map(function (letter, array) {
+//       return array.indexOf(letter) === array.lastIndexOf(letter) ? '(' : ')';
+//     })
+//     .join('');
+// }
+
+// // The lastIndexOf() method returns the last index at which a given element
+// // can be found in the array, or - 1 if it is not present.
+// // The array is searched backwards, starting at fromIndex.
+
+// duplicateEncode('din');
+// duplicateEncode('recede');
+// duplicateEncode('Success');
+// duplicateEncode('(( @');
+// ========================================================================================ss

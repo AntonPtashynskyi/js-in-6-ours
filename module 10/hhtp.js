@@ -10,14 +10,14 @@
 //   });
 
 // =============================Render test pokemon.name ============
-fetch('https://pokeapi.co/api/v2/pokemon/?limit=20&offset=40')
-  .then((r) => r.json())
-  .then((response) => response.results)
-  .then((result) => {
-    const list = document.querySelector('.list');
-    const items = result.reduce(
-      (acc, item) => (acc += `<li>${item.name}</li>`),
-      ''
-    );
-    list.innerHTML = items;
-  });
+// fetch('https://pokeapi.co/api/v2/pokemon/?limit=20&offset=40')
+//   .then((r) => r.json())
+//   .then((response) => response.results)
+//   .then((result) => {
+//     const list = document.querySelector('.list');
+//     const items = result.reduce(
+//       (acc, item) => (acc += `<li>${item.name}</li>`),
+//       ''
+//     );
+//     list.innerHTML = items;
+//   });

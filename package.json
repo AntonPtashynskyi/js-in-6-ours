@@ -11,7 +11,7 @@
   "scripts": {
     "dev": "parcel src/index.html",
     "build": "parcel build src/index.html --public-url /js-in-6-ours/",
-    "watch": "parcel watch src/index.html"
+    "watch": "parcel watch *.html"
   },
   "repository": {
     "type": "git"

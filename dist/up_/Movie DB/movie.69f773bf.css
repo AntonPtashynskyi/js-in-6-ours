@@ -1,0 +1,99 @@
+body {
+  background-color: rgb(32, 32, 32);
+}
+
+.header {
+  margin: 0;
+}
+
+.main-logo {
+  width: 60px;
+}
+
+.container {
+  margin-right: auto;
+  margin-left: auto;
+  width: 1280px;
+  padding: 25px 40px;
+  background-color: rgb(65, 65, 65);
+}
+
+.container-body {
+  height: 1280px;
+  display: flex;
+}
+
+.navigation {
+  list-style: none;
+  display: flex;
+  margin-right: auto;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+}
+
+.navigation-item:not(:last-child) {
+  margin-right: 10px;
+}
+
+.navigation-item__link {
+  text-decoration: none;
+  color: #fff;
+  transition: color 250ms ease;
+}
+
+.navigation-item__link:hover,
+.navigation-item__link:focus {
+  transition: color 250ms ease;
+  color: rgb(224, 147, 52);
+}
+
+/* search field */
+
+.search-form__input {
+  border: none;
+}
+.search-form__input:focus,
+.search-form__input:hover {
+  border: none;
+}
+
+.search-form__submit-button {
+  border: none;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  margin: 0;
+  padding: 2px 3px;
+  transition: background-color 250ms ease;
+
+  background-color: rgb(255, 255, 255);
+}
+
+.search-form__submit-button:hover,
+.search-form__submit-button:focus {
+  transition: background-color 250ms ease;
+
+  background-color: rgb(224, 147, 52);
+}
+
+/* Film car */
+.film-card {
+  width: 200px;
+  height: 300px;
+  padding: 10px 10px;
+
+  background-color: bisque;
+  border-radius: 5px;
+}
+
+.film-card__image {
+  width: 180px;
+  height: 220px;
+  object-fit: cover;
+  border-radius: 5px;
+}
+
+/*# sourceMappingURL=movie.69f773bf.css.map */
