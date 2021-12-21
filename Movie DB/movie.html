@@ -12,7 +12,7 @@
       referrerpolicy="no-referrer"
     />
     <link rel="stylesheet" href="./movie.css" />
-    <title>The movie Database API</title>
+    <title>Filmoteka</title>
   </head>
   <body class="body">
     <div class="container container-header">
@@ -22,11 +22,12 @@
         /></a>
         <ul class="navigation">
           <li class="navigation-item">
-            <a class="navigation-item__link" href="#">Home</a>
+            <a class="navigation-item__link" href="./movie.html">Home</a>
           </li>
           <li class="navigation-item">
-            <a class="navigation-item__link" href="#">Search</a>
+            <a class="navigation-item__link" href="#">Favorite</a>
           </li>
+
           <li class="navigation-item">
             <a class="navigation-item__link" href="#">About us</a>
           </li>
@@ -51,18 +52,21 @@
         </div>
       </header>
     </div>
-    <div class="container container-body">
-      <div class="film-card">
-        <a href="#" class="film-card__link"
-          ><img
-            class="film-card__image"
-            src="./media/film-cover.jpg"
-            alt="alt "
-        /></a>
-        <div class="film-card__description">
-          <p class="film-card__text"></p>
-        </div>
-      </div>
+    <div class="container container-body"></div>
+    <div class="pagination-container container">
+      <button
+        class="pagination-button pagination-first-button hidden"
+        id="fist-page-btn"
+      >
+        First page
+      </button>
+      <div class="pagination-container-button"></div>
+      <button
+        class="pagination-button pagination-last-button"
+        id="last-page-btn"
+      >
+        Last page
+      </button>
     </div>
     <div class="container container-footer">
       <footer class="footer"></footer>
