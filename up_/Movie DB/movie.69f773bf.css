@@ -2,6 +2,10 @@ body {
   background-color: rgb(32, 32, 32);
 }
 
+p {
+  margin: 0;
+}
+
 .header {
   margin: 0;
 }
@@ -19,8 +23,9 @@ body {
 }
 
 .container-body {
-  height: 1280px;
   display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
 }
 
 .navigation {
@@ -80,6 +85,7 @@ body {
 }
 
 /* Film car */
+
 .film-card {
   width: 200px;
   height: 300px;
@@ -87,6 +93,17 @@ body {
 
   background-color: bisque;
   border-radius: 5px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+
+  transition: all 300ms ease;
+}
+
+.film-card:hover,
+.film-card:focus {
+  transform: scale(1.05);
+  transition: all 300ms ease;
+  box-shadow: 0 0 5px #fff;
 }
 
 .film-card__image {
@@ -94,6 +111,67 @@ body {
   height: 220px;
   object-fit: cover;
   border-radius: 5px;
+}
+
+.film-card__text {
+  display: block;
+}
+
+.film-rating {
+  display: inline-block;
+
+  background-color: rgb(197, 161, 41);
+  color: #fff;
+  font-size: 14px;
+  font-weight: 500;
+  padding: 1px 6px;
+  border-radius: 4px;
+}
+
+/* Pagination container */
+
+.pagination-container {
+  display: flex;
+  justify-content: center;
+}
+
+.pagination-container-button {
+  margin-right: 10px;
+}
+
+.pagination-button {
+  font-size: 14px;
+  width: 40px;
+  height: 40px;
+  border-radius: 20px;
+  border-style: none;
+  transition: background-color, color, 250ms ease;
+  cursor: pointer;
+}
+
+.is-active {
+  background-color: rgb(197, 161, 41);
+  color: #fff;
+}
+
+.pagination-button:hover,
+.pagination-button:focus {
+  transition: background-color, color, 250ms ease;
+  background-color: rgb(197, 161, 41);
+  color: #fff;
+}
+
+.pagination-button:not(:last-child) {
+  margin-right: 10px;
+}
+
+.hidden {
+  display: none;
+}
+
+.pagination-last-button,
+.pagination-first-button {
+  width: 90px;
 }
 
 /*# sourceMappingURL=movie.69f773bf.css.map */
