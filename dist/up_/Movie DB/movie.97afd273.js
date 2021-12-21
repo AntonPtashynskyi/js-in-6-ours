@@ -469,7 +469,7 @@ searchForm.addEventListener('submit', onSubmitForm);
 paginationButton.addEventListener('click', onPaginationButtonClick);
 firstPageBtn.addEventListener('click', onFirstPageBtnClick);
 lastPageBtn.addEventListener('click', onLastPageBtnClick);
-let currentPage1 = 1;
+let currentPage = 1;
 let totalPage = 1;
 let searchQuery = '';
 try {
@@ -480,77 +480,109 @@ try {
 async function fetchMovies() {
     let films = {
     };
-    if (searchQuery) films = await _fetchMovie.fetchSearchMovies(searchQuery, currentPage1);
-    else films = await _fetchMovie.fetchPopularMovies(currentPage1);
+    if (searchQuery) films = await _fetchMovie.fetchSearchMovies(searchQuery, currentPage);
+    else films = await _fetchMovie.fetchPopularMovies(currentPage);
     renderFilms(films);
-    currentPage1 = films.page;
+    currentPage = films.page;
     totalPage = films.total_pages;
     renderPagination();
 }
 function onLastPageBtnClick() {
-    currentPage1 = totalPage;
+    currentPage = totalPage;
     fetchMovies();
 }
 function onFirstPageBtnClick() {
-    currentPage1 = 1;
+    currentPage = 1;
     fetchMovies();
 }
 function onPaginationButtonClick(e) {
     if (e.target.className !== 'pagination-button') // isNaN
     return;
-    currentPage1 = Number(e.target.textContent);
+    currentPage = Number(e.target.textContent);
     fetchMovies();
     renderPagination();
 }
 function onSubmitForm(e) {
     e.preventDefault();
     searchQuery = e.currentTarget.elements.query.value;
-    currentPage1 = 1;
+    currentPage = 1;
     renderPagination();
     fetchMovies();
 }
 function renderPagination() {
-    firstPageBtn.classList.add('hidden');
-    if (currentPage1 > 1) firstPageBtn.classList.remove('hidden');
-    if (currentPage1 === totalPage) lastPageBtn.classList.add('hidden');
-    if (currentPage1 < totalPage) lastPageBtn.classList.remove('hidden');
-    const array = createArrayOfNumbers(currentPage1);
+    displayAdditionalPaginationBtn();
+    const array = createArrayOfNumbers(currentPage, totalPage);
     const markup = array.map((item)=>{
-        if (item === currentPage1) return `<button class="pagination-button is-active" id="pagination" name="pagin" >${item}</button>`;
+        if (item === currentPage) return `<button class="pagination-button is-active" id="pagination" name="pagin" >${item}</button>`;
         return `<button class="pagination-button" id="pagination">${item}</button>`;
     }).join('');
     paginationButton.innerHTML = '';
     paginationButton.insertAdjacentHTML('beforeend', markup);
 // window.scrollTo({ top: 0, behavior: 'smooth' });
 }
-function createArrayOfNumbers(currentPage) {
-    const arrayOfNumbers = [];
-    if (currentPage === 1) for(let i = 1; i <= 3; i += 1)arrayOfNumbers.push(i);
-    if (currentPage === totalPage) {
-        for(let i = currentPage; i > totalPage - 3; i -= 1)arrayOfNumbers.push(i);
+function displayAdditionalPaginationBtn() {
+    if (currentPage === 1 && totalPage === 0) {
+        firstPageBtn.classList.add('hidden');
+        lastPageBtn.classList.add('hidden');
+        showEmptyResult();
+    }
+    if (currentPage === 1) firstPageBtn.classList.add('hidden');
+    else if (currentPage && totalPage === 1) {
+        firstPageBtn.classList.add('hidden');
+        lastPageBtn.classList.add('hidden');
+    }
+    if (currentPage > 1) firstPageBtn.classList.remove('hidden');
+    if (currentPage === totalPage) lastPageBtn.classList.add('hidden');
+    if (currentPage < totalPage) lastPageBtn.classList.remove('hidden');
+}
+function createArrayOfNumbers(start, end) {
+    let arrayOfNumbers = [];
+    if (start === 1 && end === 0) return arrayOfNumbers;
+    if (start === 2 && end === 2) {
+        for(let i = 1; i <= 2; i += 1)arrayOfNumbers.push(i);
+        return arrayOfNumbers;
+    }
+    if (start === 1 && end === 1) return arrayOfNumbers.push(1);
+    if (start === 1 && end === 2) {
+        for(let i = 1; i <= 2; i += 1)arrayOfNumbers.push(i);
+        return arrayOfNumbers;
+    }
+    if (start === 1) {
+        for(let i = 1; i <= 3; i += 1)arrayOfNumbers.push(i);
+        return arrayOfNumbers;
+    }
+    if (end === 0) return arrayOfNumbers = [];
+    if (start === totalPage) {
+        for(let i = start; i > end - 3; i -= 1)arrayOfNumbers.push(i);
         return arrayOfNumbers.reverse();
-    } else if (currentPage > 1) arrayOfNumbers.push(currentPage - 1, currentPage, currentPage + 1);
+    } else if (start > 1) arrayOfNumbers.push(start - 1, start, start + 1);
     return arrayOfNumbers;
 }
 function renderFilms(films) {
-    const markup = films.results.map(({ title , vote_average , poster_path  })=>{
-        const trimmedString = title.substring(0, 45);
-        return ` <div class="film-card">
-       <a href="#" class="film-card__link">
-         <img
-           class="film-card__image"
-           src="https://image.tmdb.org/t/p/w500${poster_path}"
-           alt="alt "
-         />
-       </a>
-       <div class="film-card__description">
-         <p class="film-card__text">${trimmedString}</p>
-         <p class="film-card__text film-rating">${vote_average}</p>
-       </div>
-     </div>`;
+    const markup = films.results.map(({ title , vote_average , poster_path , id  })=>{
+        const trimmedString = title.substring(0, 35);
+        return `     <div class="film-card" data-card="card">
+      
+        <a href="#" class="film-card__link">
+          <img
+            class="film-card__image"
+            src="https://image.tmdb.org/t/p/w500${poster_path}"
+            alt="${title} "
+            id="${id}"
+          />
+        </a>
+      
+      <div class="film-card__description">
+        <p class="film-card__text">${trimmedString}</p>
+        <span class="film-card__text film-rating">${vote_average}</span>
+      </div>
+    </div>`;
     }).join('');
     gallery.innerHTML = '';
     gallery.insertAdjacentHTML('beforeend', markup);
+}
+function showEmptyResult() {
+    gallery.insertAdjacentHTML('beforeend', `<p class="bad-search-result">Sorry, we don't find nothing!</p>`);
 }
 
 },{"./components/fetchMovie":"7f0A9"}],"7f0A9":[function(require,module,exports) {
@@ -559,6 +591,8 @@ parcelHelpers.defineInteropFlag(exports);
 parcelHelpers.export(exports, "fetchSearchMovies", ()=>fetchSearchMovies
 );
 parcelHelpers.export(exports, "fetchPopularMovies", ()=>fetchPopularMovies
+);
+parcelHelpers.export(exports, "fetchMovieById", ()=>fetchMovieById
 );
 const BASE_LINK = 'https://api.themoviedb.org/3/';
 const API_KEY = '2a16c6401fc5b60e749d1dab2b58b588';
@@ -569,6 +603,9 @@ async function fetchSearchMovies(searchQuery, page = 1) {
 async function fetchPopularMovies(page = 1) {
     const response = await fetch(`${BASE_LINK}trending/movie/day?api_key=${API_KEY}&page=${page}`);
     return await response.json();
+}
+async function fetchMovieById(movie_id) {
+    const response = await fetch(`${BASE_LINK}movie/${movie_id}?api_key=${API_KEY}&language=en-US`);
 }
 
 },{"@parcel/transformer-js/src/esmodule-helpers.js":"ciiiV"}],"ciiiV":[function(require,module,exports) {

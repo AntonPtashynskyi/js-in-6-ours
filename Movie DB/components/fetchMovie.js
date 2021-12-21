@@ -15,3 +15,9 @@ export async function fetchPopularMovies(page = 1) {
 
   return await response.json();
 }
+
+export async function fetchMovieById(movie_id) {
+  const response = await fetch(
+    `${BASE_LINK}movie/${movie_id}?api_key=${API_KEY}&language=en-US`
+  );
+}

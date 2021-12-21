@@ -65,19 +65,9 @@ function onSubmitForm(e) {
 }
 
 function renderPagination() {
-  firstPageBtn.classList.add('hidden');
+  displayAdditionalPaginationBtn();
+  const array = createArrayOfNumbers(currentPage, totalPage);
 
-  if (currentPage > 1) {
-    firstPageBtn.classList.remove('hidden');
-  }
-  if (currentPage === totalPage) {
-    lastPageBtn.classList.add('hidden');
-  }
-  if (currentPage < totalPage) {
-    lastPageBtn.classList.remove('hidden');
-  }
-
-  const array = createArrayOfNumbers(currentPage);
   const markup = array
     .map((item) => {
       if (item === currentPage) {
@@ -93,45 +83,108 @@ function renderPagination() {
   // window.scrollTo({ top: 0, behavior: 'smooth' });
 }
 
-function createArrayOfNumbers(currentPage) {
-  const arrayOfNumbers = [];
+function displayAdditionalPaginationBtn() {
+  if (currentPage === 1 && totalPage === 0) {
+    firstPageBtn.classList.add('hidden');
+    lastPageBtn.classList.add('hidden');
+    showEmptyResult();
+  }
   if (currentPage === 1) {
+    firstPageBtn.classList.add('hidden');
+  } else if (currentPage && totalPage === 1) {
+    firstPageBtn.classList.add('hidden');
+    lastPageBtn.classList.add('hidden');
+  }
+
+  if (currentPage > 1) {
+    firstPageBtn.classList.remove('hidden');
+  }
+  if (currentPage === totalPage) {
+    lastPageBtn.classList.add('hidden');
+  }
+  if (currentPage < totalPage) {
+    lastPageBtn.classList.remove('hidden');
+  }
+}
+
+function createArrayOfNumbers(start, end) {
+  let arrayOfNumbers = [];
+
+  if (start === 1 && end === 0) {
+    return arrayOfNumbers;
+  }
+
+  if (start === 2 && end === 2) {
+    for (let i = 1; i <= 2; i += 1) {
+      arrayOfNumbers.push(i);
+    }
+    return arrayOfNumbers;
+  }
+
+  if (start === 1 && end === 1) {
+    return arrayOfNumbers.push(1);
+  }
+
+  if (start === 1 && end === 2) {
+    for (let i = 1; i <= 2; i += 1) {
+      arrayOfNumbers.push(i);
+    }
+    return arrayOfNumbers;
+  }
+
+  if (start === 1) {
     for (let i = 1; i <= 3; i += 1) {
       arrayOfNumbers.push(i);
     }
+    return arrayOfNumbers;
   }
 
-  if (currentPage === totalPage) {
-    for (let i = currentPage; i > totalPage - 3; i -= 1) {
+  if (end === 0) {
+    return (arrayOfNumbers = []);
+  }
+
+  if (start === totalPage) {
+    for (let i = start; i > end - 3; i -= 1) {
       arrayOfNumbers.push(i);
     }
     return arrayOfNumbers.reverse();
-  } else if (currentPage > 1) {
-    arrayOfNumbers.push(currentPage - 1, currentPage, currentPage + 1);
+  } else if (start > 1) {
+    arrayOfNumbers.push(start - 1, start, start + 1);
   }
+
   return arrayOfNumbers;
 }
 
 function renderFilms(films) {
   const markup = films.results
-    .map(({ title, vote_average, poster_path }) => {
-      const trimmedString = title.substring(0, 45);
+    .map(({ title, vote_average, poster_path, id }) => {
+      const trimmedString = title.substring(0, 35);
 
-      return ` <div class="film-card">
-       <a href="#" class="film-card__link">
-         <img
-           class="film-card__image"
-           src="https://image.tmdb.org/t/p/w500${poster_path}"
-           alt="alt "
-         />
-       </a>
-       <div class="film-card__description">
-         <p class="film-card__text">${trimmedString}</p>
-         <p class="film-card__text film-rating">${vote_average}</p>
-       </div>
-     </div>`;
+      return `     <div class="film-card" data-card="card">
+      
+        <a href="#" class="film-card__link">
+          <img
+            class="film-card__image"
+            src="https://image.tmdb.org/t/p/w500${poster_path}"
+            alt="${title} "
+            id="${id}"
+          />
+        </a>
+      
+      <div class="film-card__description">
+        <p class="film-card__text">${trimmedString}</p>
+        <span class="film-card__text film-rating">${vote_average}</span>
+      </div>
+    </div>`;
     })
     .join('');
   gallery.innerHTML = '';
   gallery.insertAdjacentHTML('beforeend', markup);
+}
+
+function showEmptyResult() {
+  gallery.insertAdjacentHTML(
+    'beforeend',
+    `<p class="bad-search-result">Sorry, we don't find nothing!</p>`
+  );
 }
