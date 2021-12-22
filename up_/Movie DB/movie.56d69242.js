@@ -140,12 +140,12 @@
       this[globalName] = mainExports;
     }
   }
-})({"8x8e2":[function(require,module,exports) {
+})({"3AQmI":[function(require,module,exports) {
 var HMR_HOST = null;
 var HMR_PORT = null;
 var HMR_SECURE = false;
 var HMR_ENV_HASH = "4a236f9275d0a351";
-module.bundle.HMR_BUNDLE_ID = "3437b61c97afd273";
+module.bundle.HMR_BUNDLE_ID = "fd4a85d656d69242";
 "use strict";
 function _createForOfIteratorHelper(o, allowArrayLike) {
     var it;
@@ -458,187 +458,18 @@ function hmrAcceptRun(bundle, id) {
     acceptedAssets[id] = true;
 }
 
-},{}],"eNYlv":[function(require,module,exports) {
-var _fetchMovie = require("./components/fetchMovie");
-const searchForm = document.querySelector('.search-form');
-const gallery = document.querySelector('.container-body');
-const paginationButton = document.querySelector('.pagination-container-button');
-const firstPageBtn = document.getElementById('fist-page-btn');
-const lastPageBtn = document.getElementById('last-page-btn');
-searchForm.addEventListener('submit', onSubmitForm);
-paginationButton.addEventListener('click', onPaginationButtonClick);
-firstPageBtn.addEventListener('click', onFirstPageBtnClick);
-lastPageBtn.addEventListener('click', onLastPageBtnClick);
-let currentPage = 1;
-let totalPage = 1;
-let searchQuery = '';
-try {
-    fetchMovies();
-} catch (error) {
-    console.log(error);
+},{}],"gg9xv":[function(require,module,exports) {
+var _fetchMovie = require("./fetchMovie");
+const containerBody = document.querySelector('.container-body');
+containerBody.addEventListener('click', getMovieIDByClick);
+function getMovieIDByClick(e) {
+    if (e.target.nodeName !== 'IMG') return;
+    let movieID = Number(e.target.id);
+    _fetchMovie.fetchMovieById(movieID);
 }
-async function fetchMovies() {
-    let films = {
-    };
-    if (searchQuery) films = await _fetchMovie.fetchSearchMovies(searchQuery, currentPage);
-    else films = await _fetchMovie.fetchPopularMovies(currentPage);
-    renderFilms(films);
-    currentPage = films.page;
-    totalPage = films.total_pages;
-    renderPagination();
-}
-function onLastPageBtnClick() {
-    currentPage = totalPage;
-    fetchMovies();
-}
-function onFirstPageBtnClick() {
-    currentPage = 1;
-    fetchMovies();
-}
-function onPaginationButtonClick(e) {
-    if (e.target.className !== 'pagination-button') // isNaN
-    return;
-    currentPage = Number(e.target.textContent);
-    fetchMovies();
-    renderPagination();
-}
-function onSubmitForm(e) {
-    e.preventDefault();
-    searchQuery = e.currentTarget.elements.query.value;
-    currentPage = 1;
-    renderPagination();
-    fetchMovies();
-}
-function renderPagination() {
-    displayAdditionalPaginationBtn();
-    const array = createArrayOfNumbers(currentPage, totalPage);
-    const markup = array.map((item)=>{
-        if (item === currentPage) return `<button class="pagination-button is-active" id="pagination" name="pagin" >${item}</button>`;
-        return `<button class="pagination-button" id="pagination">${item}</button>`;
-    }).join('');
-    paginationButton.innerHTML = '';
-    paginationButton.insertAdjacentHTML('beforeend', markup);
-// window.scrollTo({ top: 0, behavior: 'smooth' });
-}
-function displayAdditionalPaginationBtn() {
-    if (currentPage === 1 && totalPage === 0) {
-        firstPageBtn.classList.add('hidden');
-        lastPageBtn.classList.add('hidden');
-        showEmptyResult();
-    }
-    if (currentPage === 1) firstPageBtn.classList.add('hidden');
-    else if (currentPage && totalPage === 1) {
-        firstPageBtn.classList.add('hidden');
-        lastPageBtn.classList.add('hidden');
-    }
-    if (currentPage > 1) firstPageBtn.classList.remove('hidden');
-    if (currentPage === totalPage) lastPageBtn.classList.add('hidden');
-    if (currentPage < totalPage) lastPageBtn.classList.remove('hidden');
-}
-function createArrayOfNumbers(start, end) {
-    let arrayOfNumbers = [];
-    if (start === 1 && end === 0) return arrayOfNumbers;
-    if (start === 2 && end === 2) {
-        for(let i = 1; i <= 2; i += 1)arrayOfNumbers.push(i);
-        return arrayOfNumbers;
-    }
-    if (start === 1 && end === 1) return arrayOfNumbers.push(1);
-    if (start === 1 && end === 2) {
-        for(let i = 1; i <= 2; i += 1)arrayOfNumbers.push(i);
-        return arrayOfNumbers;
-    }
-    if (start === 1) {
-        for(let i = 1; i <= 3; i += 1)arrayOfNumbers.push(i);
-        return arrayOfNumbers;
-    }
-    if (end === 0) return arrayOfNumbers = [];
-    if (start === totalPage) {
-        for(let i = start; i > end - 3; i -= 1)arrayOfNumbers.push(i);
-        return arrayOfNumbers.reverse();
-    } else if (start > 1) arrayOfNumbers.push(start - 1, start, start + 1);
-    return arrayOfNumbers;
-}
-function renderFilms(films) {
-    const markup = films.results.map(({ title , vote_average , poster_path , id  })=>{
-        const trimmedString = title.substring(0, 35);
-        return `     <div class="film-card" data-card="card">
-      
-        <a href="#" class="film-card__link">
-          <img
-            class="film-card__image"
-            src="https://image.tmdb.org/t/p/w500${poster_path}"
-            alt="${title} "
-            id="${id}"
-          />
-           <div class="film-card__description">
-        <p class="film-card__text">${trimmedString}</p>
-        <span class="film-card__text film-rating">${vote_average}</span>
-      </div>
-        </a>
-      
-     
-    </div>`;
-    }).join('');
-    gallery.innerHTML = '';
-    gallery.insertAdjacentHTML('beforeend', markup);
-}
-function showEmptyResult() {
-    gallery.insertAdjacentHTML('beforeend', `<p class="bad-search-result">Sorry, we don't find nothing!</p>`);
+function renderModal(params) {
 }
 
-},{"./components/fetchMovie":"7f0A9"}],"7f0A9":[function(require,module,exports) {
-var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
-parcelHelpers.defineInteropFlag(exports);
-parcelHelpers.export(exports, "fetchSearchMovies", ()=>fetchSearchMovies
-);
-parcelHelpers.export(exports, "fetchPopularMovies", ()=>fetchPopularMovies
-);
-parcelHelpers.export(exports, "fetchMovieById", ()=>fetchMovieById
-);
-const BASE_LINK = 'https://api.themoviedb.org/3/';
-const API_KEY = '2a16c6401fc5b60e749d1dab2b58b588';
-async function fetchSearchMovies(searchQuery, page = 1) {
-    const response = await fetch(`${BASE_LINK}search/movie?api_key=${API_KEY}&language=en-US&query=${searchQuery}&page=${page}&include_adult=false`);
-    return await response.json();
-}
-async function fetchPopularMovies(page = 1) {
-    const response = await fetch(`${BASE_LINK}trending/movie/day?api_key=${API_KEY}&page=${page}`);
-    return await response.json();
-}
-async function fetchMovieById(movie_id) {
-    const response = await fetch(`${BASE_LINK}movie/${movie_id}?api_key=${API_KEY}&language=en-US`);
-}
+},{"./fetchMovie":"7f0A9"}]},["3AQmI","gg9xv"], "gg9xv", "parcelRequire599d")
 
-},{"@parcel/transformer-js/src/esmodule-helpers.js":"ciiiV"}],"ciiiV":[function(require,module,exports) {
-exports.interopDefault = function(a) {
-    return a && a.__esModule ? a : {
-        default: a
-    };
-};
-exports.defineInteropFlag = function(a) {
-    Object.defineProperty(a, '__esModule', {
-        value: true
-    });
-};
-exports.exportAll = function(source, dest) {
-    Object.keys(source).forEach(function(key) {
-        if (key === 'default' || key === '__esModule' || dest.hasOwnProperty(key)) return;
-        Object.defineProperty(dest, key, {
-            enumerable: true,
-            get: function() {
-                return source[key];
-            }
-        });
-    });
-    return dest;
-};
-exports.export = function(dest, destName, get) {
-    Object.defineProperty(dest, destName, {
-        enumerable: true,
-        get: get
-    });
-};
-
-},{}]},["8x8e2","eNYlv"], "eNYlv", "parcelRequire599d")
-
-//# sourceMappingURL=movie.97afd273.js.map
+//# sourceMappingURL=movie.56d69242.js.map
