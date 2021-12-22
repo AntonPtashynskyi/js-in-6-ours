@@ -12,3 +12,5 @@ function getMovieIDByClick(e) {
   let movieID = Number(e.target.id);
   fetchMovieById(movieID);
 }
+
+function renderModal(params) {}

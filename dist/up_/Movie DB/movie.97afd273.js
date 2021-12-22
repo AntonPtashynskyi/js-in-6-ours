@@ -570,12 +570,13 @@ function renderFilms(films) {
             alt="${title} "
             id="${id}"
           />
-        </a>
-      
-      <div class="film-card__description">
+           <div class="film-card__description">
         <p class="film-card__text">${trimmedString}</p>
         <span class="film-card__text film-rating">${vote_average}</span>
       </div>
+        </a>
+      
+     
     </div>`;
     }).join('');
     gallery.innerHTML = '';

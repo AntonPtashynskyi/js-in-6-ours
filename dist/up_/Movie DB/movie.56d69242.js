@@ -467,6 +467,8 @@ function getMovieIDByClick(e) {
     let movieID = Number(e.target.id);
     _fetchMovie.fetchMovieById(movieID);
 }
+function renderModal(params) {
+}
 
 },{"./fetchMovie":"7f0A9"}]},["3AQmI","gg9xv"], "gg9xv", "parcelRequire599d")
 
