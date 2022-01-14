@@ -548,11 +548,11 @@ try {
 } catch (error) {
     console.log(error);
 }
-async function fetchMovies() {
+async function fetchMovies(currentPage1) {
     let films = {
     };
-    if (searchQuery) films = await _fetchMovie.fetchSearchMovies(searchQuery, currentPage);
-    else films = await _fetchMovie.fetchPopularMovies(currentPage);
+    if (searchQuery) films = await _fetchMovie.fetchSearchMovies(searchQuery, currentPage1);
+    else films = await _fetchMovie.fetchPopularMovies(currentPage1);
     pagination.setTotalItems(films.total_results);
     renderFilms(films);
 }
@@ -600,8 +600,8 @@ parcelHelpers.export(exports, "fetchPopularMovies", ()=>fetchPopularMovies
 );
 parcelHelpers.export(exports, "fetchMovieById", ()=>fetchMovieById
 );
-const BASE_LINK = 'https://api.themoviedb.org/3/';
-const API_KEY = '2a16c6401fc5b60e749d1dab2b58b588';
+const BASE_LINK = "https://api.themoviedb.org/3/";
+const API_KEY = "2a16c6401fc5b60e749d1dab2b58b588";
 async function fetchSearchMovies(searchQuery, page = 1) {
     const response = await fetch(`${BASE_LINK}search/movie?api_key=${API_KEY}&language=en-US&query=${searchQuery}&page=${page}&include_adult=false`);
     return await response.json();
@@ -612,6 +612,7 @@ async function fetchPopularMovies(page = 1) {
 }
 async function fetchMovieById(movie_id) {
     const response = await fetch(`${BASE_LINK}movie/${movie_id}?api_key=${API_KEY}&language=en-US`);
+    return await response.json();
 }
 
 },{"@parcel/transformer-js/src/esmodule-helpers.js":"ciiiV"}],"ciiiV":[function(require,module,exports) {

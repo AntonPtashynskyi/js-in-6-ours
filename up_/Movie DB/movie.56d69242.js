@@ -520,12 +520,13 @@ function hmrAcceptRun(bundle, id) {
 
 },{}],"gg9xv":[function(require,module,exports) {
 var _fetchMovie = require("./fetchMovie");
-const containerBody = document.querySelector('.container-body');
-containerBody.addEventListener('click', getMovieIDByClick);
-function getMovieIDByClick(e) {
-    if (e.target.nodeName !== 'IMG') return;
+const containerBody = document.querySelector(".container-body");
+containerBody.addEventListener("click", getMovieIDByClick);
+async function getMovieIDByClick(e) {
+    if (e.target.nodeName !== "IMG") return;
     let movieID = Number(e.target.id);
-    _fetchMovie.fetchMovieById(movieID);
+    const movie = await _fetchMovie.fetchMovieById(movieID);
+    console.log(movie);
 }
 function renderModal(params) {
 }
