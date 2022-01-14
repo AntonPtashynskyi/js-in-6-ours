@@ -32,7 +32,7 @@ try {
   console.log(error);
 }
 
-async function fetchMovies() {
+async function fetchMovies(currentPage) {
   let films = {};
 
   if (searchQuery) {

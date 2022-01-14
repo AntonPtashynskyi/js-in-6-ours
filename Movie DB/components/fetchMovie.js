@@ -1,5 +1,5 @@
-const BASE_LINK = 'https://api.themoviedb.org/3/';
-const API_KEY = '2a16c6401fc5b60e749d1dab2b58b588';
+const BASE_LINK = "https://api.themoviedb.org/3/";
+const API_KEY = "2a16c6401fc5b60e749d1dab2b58b588";
 
 export async function fetchSearchMovies(searchQuery, page = 1) {
   const response = await fetch(
@@ -20,4 +20,6 @@ export async function fetchMovieById(movie_id) {
   const response = await fetch(
     `${BASE_LINK}movie/${movie_id}?api_key=${API_KEY}&language=en-US`
   );
+
+  return await response.json();
 }
