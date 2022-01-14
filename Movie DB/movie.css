@@ -207,6 +207,67 @@ p {
   width: 90px;
 }
 
+.tui-pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(65, 65, 65);
+  width: 1280px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
 .tui-page-btn {
-  background-color: #fff;
+  display: inline-block;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 500;
+
+  border-radius: 25%;
+  font-size: 14px;
+  width: 25px;
+  height: 25px;
+  margin-left: 5px;
+  margin-right: 5px;
+
+  text-decoration: none;
+  color: #fff;
+}
+
+.tui-pagination .tui-is-selected {
+  display: inline-block;
+  display: flex;
+
+  margin: 0;
+  padding: 0;
+  width: 40px;
+  height: 40px;
+
+  align-items: center;
+  justify-content: center;
+  background-color: #ff6b08;
+  border-radius: 5px;
+  color: #fff;
+
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+.tui-last-child-btn,
+.tui-first-child-btn {
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.tui-next {
+  margin-right: 15px;
+}
+
+.tui-prev {
+  margin-left: 15px;
+}
+
+.tui-is-disabled {
+  display: none;
 }
