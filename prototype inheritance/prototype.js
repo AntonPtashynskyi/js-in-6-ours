@@ -1,6 +1,6 @@
 const user = {
-  login: 'NAME',
-  avatar: '',
+  login: "NAME",
+  avatar: "",
   isAdmin: false,
   search() {
     this.searching = true;
@@ -13,7 +13,7 @@ admin.isAdmin = true;
 // методы animal
 let animal = {
   eats: true,
-  name: 'animal',
+  name: "animal",
   walk() {
     if (!this.isSleeping) {
       alert(`I walk`);
@@ -30,24 +30,24 @@ let animal = {
 
 let rabbit = {
   jumps: true,
-  name: 'White Rabbit',
+  name: "White Rabbit",
   __proto__: animal,
 };
 
 // модифицирует rabbit.isSleeping
 rabbit.sleep();
 animal.sleep();
-rabbit.name = 'Big rabbit';
+rabbit.name = "Big rabbit";
 
-console.log(rabbit.isSleeping);
-console.log(animal.isSleeping);
-console.log(rabbit.name);
-console.log(animal.name);
+// console.log(rabbit.isSleeping);
+// console.log(animal.isSleeping);
+// console.log(rabbit.name);
+// console.log(animal.name);
 
-animal.setName('Животное');
-console.log(animal.name);
-console.log(rabbit.name);
-rabbit.setName('Кролик');
+// animal.setName("Животное");
+// console.log(animal.name);
+// console.log(rabbit.name);
+// rabbit.setName("Кролик");
 
 // console.log(rabbit.name);
 
@@ -59,8 +59,8 @@ rabbit.setName('Кролик');
 //   console.log(prop);
 // }
 
-console.log('rabbit', Object.keys(rabbit));
-console.log('animal', Object.keys(animal));
+// console.log("rabbit", Object.keys(rabbit));
+// console.log("animal", Object.keys(animal));
 
 let head = {
   glasses: 1,
@@ -82,8 +82,8 @@ let pockets = {
   __proto__: bed,
 };
 
-function stringToUpperCase(string) {
-  return string.split('').reduce((acc, item, i) => {
+export function stringToUpperCase(string) {
+  return string.split("").reduce((acc, item, i) => {
     if (item[i] === item[0]) {
       return (acc += item.toUpperCase());
     }
@@ -91,7 +91,9 @@ function stringToUpperCase(string) {
   }, []);
 }
 
-console.log(stringToUpperCase('hello world'));
+// export { stringToUpperCase };
+
+// console.log(stringToUpperCase("hello world"));
 
 const marks = [20, 40, 50, 60, 10, 9];
 
@@ -119,15 +121,23 @@ function findMin(arr) {
 //     return acc;
 //   });
 // }
-console.log(findMax(marks));
-console.log(findMin(marks));
+// console.log(findMax(marks));
+// console.log(findMin(marks));
 
-console.log('Hello world'[0]);
+// console.log("Hello world"[0]);
 
-const cities = ['wro', 'kiev', 'wwa'];
-console.log(cities.splice());
-console.log(null == undefined);
-console.log(null === undefined);
+// const cities = ["wro", "kiev", "wwa"];
+// console.log(cities.splice());
+// console.log(null == undefined);
+// console.log(null === undefined);
 
-console.log(typeof null);
-console.log(typeof undefined);
+// console.log(typeof null);
+// console.log(typeof undefined);
+
+export default function toUpper(str) {
+  return str.toUpperCase();
+}
+
+export function getDate() {
+  console.log(Date.now);
+}

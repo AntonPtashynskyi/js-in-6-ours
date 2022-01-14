@@ -5,11 +5,11 @@
   "dependencies": {
     "bootstrap.native": "^4.0.7",
     "handlebars": "^4.7.7",
-    "parcel": "^2.0.1"
+    "parcel": "^2.1.1",
+    "tui-pagination": "^3.4.1"
   },
-  "devDependencies": {},
   "scripts": {
-    "dev": "parcel src/index.html",
+    "dev": "parcel src/*.html",
     "build": "parcel build src/index.html --public-url /js-in-6-ours/",
     "watch": "parcel watch *.html"
   },

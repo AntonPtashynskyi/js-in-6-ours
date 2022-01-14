@@ -80,11 +80,13 @@
     return cache[name].exports;
 
     function localRequire(x) {
-      return newRequire(localRequire.resolve(x));
+      var res = localRequire.resolve(x);
+      return res === false ? {} : newRequire(res);
     }
 
     function resolve(x) {
-      return modules[name][1][x] || x;
+      var id = modules[name][1][x];
+      return id != null ? id : x;
     }
   }
 
@@ -140,13 +142,25 @@
       this[globalName] = mainExports;
     }
   }
-})({"fo2dJ":[function(require,module,exports) {
+})({"iM9pQ":[function(require,module,exports) {
 var HMR_HOST = null;
 var HMR_PORT = null;
 var HMR_SECURE = false;
 var HMR_ENV_HASH = "4a236f9275d0a351";
 module.bundle.HMR_BUNDLE_ID = "666b003a5c65a923";
 "use strict";
+function _toConsumableArray(arr) {
+    return _arrayWithoutHoles(arr) || _iterableToArray(arr) || _unsupportedIterableToArray(arr) || _nonIterableSpread();
+}
+function _nonIterableSpread() {
+    throw new TypeError("Invalid attempt to spread non-iterable instance.\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method.");
+}
+function _iterableToArray(iter) {
+    if (typeof Symbol !== "undefined" && Symbol.iterator in Object(iter)) return Array.from(iter);
+}
+function _arrayWithoutHoles(arr) {
+    if (Array.isArray(arr)) return _arrayLikeToArray(arr);
+}
 function _createForOfIteratorHelper(o, allowArrayLike) {
     var it;
     if (typeof Symbol === "undefined" || o[Symbol.iterator] == null) {
@@ -406,6 +420,16 @@ function hmrApply(bundle, asset) {
     else if (asset.type === 'js') {
         var deps = asset.depsByBundle[bundle.HMR_BUNDLE_ID];
         if (deps) {
+            if (modules[asset.id]) {
+                // Remove dependencies that are removed and will become orphaned.
+                // This is necessary so that if the asset is added back again, the cache is gone, and we prevent a full page reload.
+                var oldDeps = modules[asset.id][1];
+                for(var dep in oldDeps)if (!deps[dep] || deps[dep] !== oldDeps[dep]) {
+                    var id = oldDeps[dep];
+                    var parents = getParents(module.bundle.root, id);
+                    if (parents.length === 1) hmrDelete(module.bundle.root, id);
+                }
+            }
             var fn = new Function('require', 'module', 'exports', asset.output);
             modules[asset.id] = [
                 fn,
@@ -414,7 +438,48 @@ function hmrApply(bundle, asset) {
         } else if (bundle.parent) hmrApply(bundle.parent, asset);
     }
 }
+function hmrDelete(bundle, id1) {
+    var modules = bundle.modules;
+    if (!modules) return;
+    if (modules[id1]) {
+        // Collect dependencies that will become orphaned when this module is deleted.
+        var deps = modules[id1][1];
+        var orphans = [];
+        for(var dep in deps){
+            var parents = getParents(module.bundle.root, deps[dep]);
+            if (parents.length === 1) orphans.push(deps[dep]);
+        } // Delete the module. This must be done before deleting dependencies in case of circular dependencies.
+        delete modules[id1];
+        delete bundle.cache[id1]; // Now delete the orphans.
+        orphans.forEach(function(id) {
+            hmrDelete(module.bundle.root, id);
+        });
+    } else if (bundle.parent) hmrDelete(bundle.parent, id1);
+}
 function hmrAcceptCheck(bundle, id, depsByBundle) {
+    if (hmrAcceptCheckOne(bundle, id, depsByBundle)) return true;
+     // Traverse parents breadth first. All possible ancestries must accept the HMR update, or we'll reload.
+    var parents = getParents(module.bundle.root, id);
+    var accepted = false;
+    while(parents.length > 0){
+        var v = parents.shift();
+        var a = hmrAcceptCheckOne(v[0], v[1], null);
+        if (a) // If this parent accepts, stop traversing upward, but still consider siblings.
+        accepted = true;
+        else {
+            // Otherwise, queue the parents in the next level upward.
+            var p = getParents(module.bundle.root, v[1]);
+            if (p.length === 0) {
+                // If there are no parents, then we've reached an entry without accepting. Reload.
+                accepted = false;
+                break;
+            }
+            parents.push.apply(parents, _toConsumableArray(p));
+        }
+    }
+    return accepted;
+}
+function hmrAcceptCheckOne(bundle, id, depsByBundle) {
     var modules = bundle.modules;
     if (!modules) return;
     if (depsByBundle && !depsByBundle[bundle.HMR_BUNDLE_ID]) {
@@ -430,12 +495,7 @@ function hmrAcceptCheck(bundle, id, depsByBundle) {
         bundle,
         id
     ]);
-    if (cached && cached.hot && cached.hot._acceptCallbacks.length) return true;
-    var parents = getParents(module.bundle.root, id); // If no parents, the asset is new. Prevent reloading the page.
-    if (!parents.length) return true;
-    return parents.some(function(v) {
-        return hmrAcceptCheck(v[0], v[1], null);
-    });
+    if (!cached || cached.hot && cached.hot._acceptCallbacks.length) return true;
 }
 function hmrAcceptRun(bundle, id) {
     var cached = bundle.cache[id];
@@ -589,18 +649,18 @@ function normalizeOptions(element, defaultOps, inputOps, ns) {
 }
 /* Native JavaScript for Bootstrap 5 | Base Component
 ----------------------------------------------------- */ class BaseComponent {
-    constructor(name, target3, defaults, config){
+    constructor(name, target, defaults, config){
         const self = this;
-        const element = queryElement(target3);
+        const element = queryElement(target);
         if (element[name]) element[name].dispose();
         self.element = element;
         if (defaults && Object.keys(defaults).length) self.options = normalizeOptions(element, defaults, config || {
         }, 'bs');
         element[name] = self;
     }
-    dispose(name1) {
+    dispose(name) {
         const self = this;
-        self.element[name1] = null;
+        self.element[name] = null;
         Object.keys(self).forEach((prop)=>{
             self[prop] = null;
         });
@@ -636,8 +696,8 @@ function toggleAlertHandler(self, add) {
 // ALERT DEFINITION
 // ================
 class Alert extends BaseComponent {
-    constructor(target1){
-        super(alertComponent, target1);
+    constructor(target){
+        super(alertComponent, target);
         // bind
         const self = this;
         // initialization element
@@ -650,9 +710,9 @@ class Alert extends BaseComponent {
     }
     // ALERT PUBLIC METHODS
     // ====================
-    close(e2) {
-        const target = e2 ? e2.target : null;
-        const self = e2 ? e2.target.closest(alertSelector)[alertComponent] : this;
+    close(e) {
+        const target = e ? e.target : null;
+        const self = e ? e.target.closest(alertSelector)[alertComponent] : this;
         const { element  } = self;
         if (self && element && hasClass(element, showClass)) {
             if (target) {
@@ -698,8 +758,8 @@ function toggleButtonHandler(self, add) {
 // BUTTON DEFINITION
 // =================
 class Button extends BaseComponent {
-    constructor(target2){
-        super(buttonComponent, target2);
+    constructor(target){
+        super(buttonComponent, target);
         const self = this;
         // initialization element
         const { element  } = self;
@@ -711,9 +771,9 @@ class Button extends BaseComponent {
     }
     // BUTTON PUBLIC METHODS
     // =====================
-    toggle(e1) {
-        if (e1) e1.preventDefault();
-        const self = e1 ? this[buttonComponent] : this;
+    toggle(e) {
+        if (e) e.preventDefault();
+        const self = e ? this[buttonComponent] : this;
         const { element  } = self;
         if (hasClass(element, 'disabled')) return;
         self.isActive = hasClass(element, activeClass);
@@ -937,8 +997,8 @@ function getActiveIndex(self) {
 // CAROUSEL DEFINITION
 // ===================
 class Carousel extends BaseComponent {
-    constructor(target4, config1){
-        super(carouselComponent, target4, defaultCarouselOptions, config1);
+    constructor(target, config){
+        super(carouselComponent, target, defaultCarouselOptions, config);
         // bind
         const self = this;
         // additional properties
@@ -1023,11 +1083,11 @@ class Carousel extends BaseComponent {
             self.to(self.index);
         }
     }
-    to(idx1) {
+    to(idx) {
         const self = this;
         const { element , isAnimating , slides , options ,  } = self;
         const activeItem = getActiveIndex(self);
-        let next = idx1;
+        let next = idx;
         // when controled via methods, make sure to check again
         // first return if we're on the same item #227
         if (isAnimating || activeItem === next) return;
@@ -1191,10 +1251,10 @@ function collapseClickHandler(e) {
 // COLLAPSE DEFINITION
 // ===================
 class Collapse extends BaseComponent {
-    constructor(target5, config2){
-        super(collapseComponent, target5, {
+    constructor(target, config){
+        super(collapseComponent, target, {
             parent: null
-        }, config2);
+        }, config);
         // bind
         const self = this;
         // initialization element
@@ -1517,8 +1577,8 @@ function dropdownLayoutHandler() {
 // DROPDOWN DEFINITION
 // ===================
 class Dropdown extends BaseComponent {
-    constructor(target6, config3){
-        super(dropdownComponent, target6, defaultDropdownOptions, config3);
+    constructor(target, config){
+        super(dropdownComponent, target, defaultDropdownOptions, config);
         // bind
         const self = this;
         // initialization element
@@ -1542,13 +1602,13 @@ class Dropdown extends BaseComponent {
     }
     // DROPDOWN PUBLIC METHODS
     // =======================
-    toggle(related1) {
+    toggle(related) {
         const self = this;
         const { open  } = self;
-        if (open) self.hide(related1);
-        else self.show(related1);
+        if (open) self.hide(related);
+        else self.show(related);
     }
-    show(related2) {
+    show(related) {
         const self = this;
         const currentParent = queryElement(dropdownMenuClasses.concat('btn-group').map((c)=>`.${c}.${showClass}`
         ).join(','));
@@ -1557,7 +1617,7 @@ class Dropdown extends BaseComponent {
         const { element , menu , open  } = self;
         const parent = element.parentNode;
         // update relatedTarget and dispatch
-        showDropdownEvent.relatedTarget = related2 || null;
+        showDropdownEvent.relatedTarget = related || null;
         parent.dispatchEvent(showDropdownEvent);
         if (showDropdownEvent.defaultPrevented) return;
         // change menu position
@@ -1569,15 +1629,15 @@ class Dropdown extends BaseComponent {
         setTimeout(()=>{
             setFocus(menu.getElementsByTagName('INPUT')[0] || element); // focus the first input item | element
             toggleDropdownDismiss(self);
-            shownDropdownEvent.relatedTarget = related2 || null;
+            shownDropdownEvent.relatedTarget = related || null;
             parent.dispatchEvent(shownDropdownEvent);
         }, 1);
     }
-    hide(related3) {
+    hide(related) {
         const self = this;
         const { element , menu , open  } = self;
         const parent = element.parentNode;
-        hideDropdownEvent.relatedTarget = related3 || null;
+        hideDropdownEvent.relatedTarget = related || null;
         parent.dispatchEvent(hideDropdownEvent);
         if (hideDropdownEvent.defaultPrevented) return;
         removeClass(menu, showClass);
@@ -1591,7 +1651,7 @@ class Dropdown extends BaseComponent {
         setTimeout(()=>toggleDropdownDismiss(self)
         , 1);
         // update relatedTarget and dispatch
-        hiddenDropdownEvent.relatedTarget = related3 || null;
+        hiddenDropdownEvent.relatedTarget = related || null;
         parent.dispatchEvent(hiddenDropdownEvent);
     }
     dispose() {
@@ -1832,8 +1892,8 @@ function staticTransitionEnd(self) {
 // MODAL DEFINITION
 // ================
 class Modal extends BaseComponent {
-    constructor(target7, config4){
-        super(modalComponent, target7, modalDefaultOptions, config4);
+    constructor(target, config){
+        super(modalComponent, target, modalDefaultOptions, config);
         // bind
         const self = this;
         // the modal
@@ -2058,8 +2118,8 @@ function hideOffcanvasComplete(self) {
 // OFFCANVAS DEFINITION
 // ====================
 class Offcanvas extends BaseComponent {
-    constructor(target8, config5){
-        super(offcanvasComponent, target8, offcanvasDefaultOptions, config5);
+    constructor(target, config){
+        super(offcanvasComponent, target, offcanvasDefaultOptions, config);
         const self = this;
         // instance element
         const { element  } = self;
@@ -2106,7 +2166,7 @@ class Offcanvas extends BaseComponent {
             if (currentOpen && hasClass(overlay, showClass)) hideOverlay();
         }
     }
-    hide(force1) {
+    hide(force) {
         const self = this;
         const { element , isAnimating , relatedTarget  } = self;
         if (!hasClass(element, showClass) || isAnimating) return;
@@ -2116,7 +2176,7 @@ class Offcanvas extends BaseComponent {
         self.isAnimating = true;
         addClass(element, offcanvasTogglingClass);
         removeClass(element, showClass);
-        if (!force1) emulateTransitionEnd(element, ()=>beforeOffcanvasHide(self)
+        if (!force) emulateTransitionEnd(element, ()=>beforeOffcanvasHide(self)
         );
         else beforeOffcanvasHide(self);
     }
@@ -2492,9 +2552,9 @@ function popoverHideTrigger(self) {
 // POPOVER DEFINITION
 // ==================
 class Popover extends BaseComponent {
-    constructor(target9, config6){
-        popoverDefaultOptions.container = getTipContainer(queryElement(target9));
-        super(popoverComponent, target9, popoverDefaultOptions, config6);
+    constructor(target, config){
+        popoverDefaultOptions.container = getTipContainer(queryElement(target));
+        super(popoverComponent, target, popoverDefaultOptions, config);
         // bind
         const self = this;
         // initialization element
@@ -2536,19 +2596,19 @@ class Popover extends BaseComponent {
         // attach event listeners
         togglePopoverHandlers(self, 1);
     }
-    update(e6) {
-        styleTip(this, e6);
+    update(e) {
+        styleTip(this, e);
     }
     // POPOVER PUBLIC METHODS
     // ======================
-    toggle(e3) {
-        const self = e3 ? this[popoverComponent] : this;
+    toggle(e) {
+        const self = e ? this[popoverComponent] : this;
         const { popover , options  } = self;
         if (!isVisibleTip(popover, options.container)) self.show();
         else self.hide();
     }
-    show(e4) {
-        const self = e4 ? this[popoverComponent] : this;
+    show(e) {
+        const self = e ? this[popoverComponent] : this;
         const { element , popover , options , id ,  } = self;
         const { container  } = options;
         clearTimeout(self.timer);
@@ -2558,7 +2618,7 @@ class Popover extends BaseComponent {
             // append to the container
             container.append(popover);
             element.setAttribute(ariaDescribedBy, id);
-            self.update(e4);
+            self.update(e);
             if (!hasClass(popover, showClass)) addClass(popover, showClass);
             dismissHandlerToggle(self, 1);
             if (options.animation) emulateTransitionEnd(popover, ()=>popoverShowTrigger(self)
@@ -2566,10 +2626,10 @@ class Popover extends BaseComponent {
             else popoverShowTrigger(self);
         }
     }
-    hide(e5) {
+    hide(e) {
         let self;
-        if (e5 && this[popoverComponent]) self = this[popoverComponent];
-        else if (e5) {
+        if (e && this[popoverComponent]) self = this[popoverComponent];
+        else if (e) {
             const dPopover = this.closest(`.${popoverString}`);
             const dEl = dPopover && queryElement(`[${ariaDescribedBy}="${dPopover.id}"]`);
             self = dEl[popoverComponent];
@@ -2712,8 +2772,8 @@ function toggleSpyHandlers(self, add) {
 // SCROLLSPY DEFINITION
 // ====================
 class ScrollSpy extends BaseComponent {
-    constructor(target12, config7){
-        super(scrollspyComponent, target12, scrollSpyDefaultOptions, config7);
+    constructor(target, config){
+        super(scrollspyComponent, target, scrollSpyDefaultOptions, config);
         // bind
         const self = this;
         // initialization element & options
@@ -2869,8 +2929,8 @@ function tabClickHandler(e) {
 // TAB DEFINITION
 // ==============
 class Tab extends BaseComponent {
-    constructor(target10){
-        super(tabComponent, target10);
+    constructor(target){
+        super(tabComponent, target);
         // bind
         const self = this;
         // initialization element
@@ -3000,8 +3060,8 @@ function completeDisposeToast(self) {
 // TOAST DEFINITION
 // ================
 class Toast extends BaseComponent {
-    constructor(target11, config8){
-        super(toastComponent, target11, toastDefaultOptions, config8);
+    constructor(target, config){
+        super(toastComponent, target, toastDefaultOptions, config);
         // bind
         const self = this;
         const { element , options  } = self;
@@ -3167,12 +3227,12 @@ function tooltipTouchHandler({ target  }) {
 // TOOLTIP DEFINITION
 // ==================
 class Tooltip extends BaseComponent {
-    constructor(target, config9){
+    constructor(target, config){
         // initialization element
         const element = queryElement(target);
         tooltipDefaultOptions.title = element.getAttribute(titleAttr);
         tooltipDefaultOptions.container = getTipContainer(element);
-        super(tooltipComponent, element, tooltipDefaultOptions, config9);
+        super(tooltipComponent, element, tooltipDefaultOptions, config);
         // bind
         const self = this;
         // additional properties
@@ -3234,8 +3294,8 @@ class Tooltip extends BaseComponent {
             else tooltipShownAction(self);
         }
     }
-    hide(e7) {
-        const self = e7 ? this[tooltipComponent] : this;
+    hide(e) {
+        const self = e ? this[tooltipComponent] : this;
         const { options , tooltip , element  } = self;
         clearTimeout(self.timer);
         self.timer = setTimeout(()=>{
@@ -3249,8 +3309,8 @@ class Tooltip extends BaseComponent {
             }
         }, options.delay);
     }
-    update(e8) {
-        styleTip(this, e8);
+    update(e) {
+        styleTip(this, e);
     }
     toggle() {
         const self = this;
@@ -3391,6 +3451,6 @@ exports.export = function(dest, destName, get) {
     });
 };
 
-},{}]},["fo2dJ","a0wRA"], "a0wRA", "parcelRequire599d")
+},{}]},["iM9pQ","a0wRA"], "a0wRA", "parcelRequire599d")
 
 //# sourceMappingURL=module9.5c65a923.js.map

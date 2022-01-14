@@ -1,19 +1,38 @@
-import { fetchSearchMovies, fetchPopularMovies } from './components/fetchMovie';
+import { fetchSearchMovies, fetchPopularMovies } from "./components/fetchMovie";
+import Pagination from "tui-pagination";
+import "tui-pagination/dist/tui-pagination.css";
 
-const searchForm = document.querySelector('.search-form');
-const gallery = document.querySelector('.container-body');
-const paginationButton = document.querySelector('.pagination-container-button');
-const firstPageBtn = document.getElementById('fist-page-btn');
-const lastPageBtn = document.getElementById('last-page-btn');
+const searchForm = document.querySelector(".search-form");
+const gallery = document.querySelector(".container-body");
+const paginationButton = document.querySelector(".pagination-container-button");
+const firstPageBtn = document.getElementById("fist-page-btn");
+const lastPageBtn = document.getElementById("last-page-btn");
+const container = document.getElementById("pagination");
 
-searchForm.addEventListener('submit', onSubmitForm);
-paginationButton.addEventListener('click', onPaginationButtonClick);
-firstPageBtn.addEventListener('click', onFirstPageBtnClick);
-lastPageBtn.addEventListener('click', onLastPageBtnClick);
+searchForm.addEventListener("submit", onSubmitForm);
+// paginationButton.addEventListener('click', onPaginationButtonClick);
+// firstPageBtn.addEventListener("click", onFirstPageBtnClick);
+// lastPageBtn.addEventListener("click", onLastPageBtnClick);
+
+const pagination = new Pagination(container, {
+  itemsPerPage: 20,
+  visiblePages: 5,
+  page: 1,
+  centerAlign: true,
+  totalItems: 500, //                        Value to change
+  // firstItemClassName: "tui-first-child",
+  // lastItemClassName: "tui-last-child",
+});
+
+pagination.on("afterMove", async ({ page }) => {
+  // call API (Fetch: page, total_results)
+  const films = await fetchPopularMovies(page);
+  renderFilms(films);
+});
 
 let currentPage = 1;
 let totalPage = 1;
-let searchQuery = '';
+let searchQuery = "";
 
 try {
   fetchMovies();
@@ -46,7 +65,7 @@ function onFirstPageBtnClick() {
 }
 
 function onPaginationButtonClick(e) {
-  if (e.target.className !== 'pagination-button') {
+  if (e.target.className !== "pagination-button") {
     // isNaN
     return;
   }
@@ -65,7 +84,7 @@ function onSubmitForm(e) {
 }
 
 function renderPagination() {
-  displayAdditionalPaginationBtn();
+  // displayAdditionalPaginationBtn();
   const array = createArrayOfNumbers(currentPage, totalPage);
 
   const markup = array
@@ -76,36 +95,36 @@ function renderPagination() {
 
       return `<button class="pagination-button" id="pagination">${item}</button>`;
     })
-    .join('');
+    .join("");
 
-  paginationButton.innerHTML = '';
-  paginationButton.insertAdjacentHTML('beforeend', markup);
+  // paginationButton.innerHTML = "";
+  // paginationButton.insertAdjacentHTML("beforeend", markup);
   // window.scrollTo({ top: 0, behavior: 'smooth' });
 }
 
-function displayAdditionalPaginationBtn() {
-  if (currentPage === 1 && totalPage === 0) {
-    firstPageBtn.classList.add('hidden');
-    lastPageBtn.classList.add('hidden');
-    showEmptyResult();
-  }
-  if (currentPage === 1) {
-    firstPageBtn.classList.add('hidden');
-  } else if (currentPage && totalPage === 1) {
-    firstPageBtn.classList.add('hidden');
-    lastPageBtn.classList.add('hidden');
-  }
+// function displayAdditionalPaginationBtn() {
+//   if (currentPage === 1 && totalPage === 0) {
+//     firstPageBtn.classList.add("hidden");
+//     lastPageBtn.classList.add("hidden");
+//     showEmptyResult();
+//   }
+//   if (currentPage === 1) {
+//     firstPageBtn.classList.add("hidden");
+//   } else if (currentPage && totalPage === 1) {
+//     firstPageBtn.classList.add("hidden");
+//     lastPageBtn.classList.add("hidden");
+//   }
 
-  if (currentPage > 1) {
-    firstPageBtn.classList.remove('hidden');
-  }
-  if (currentPage === totalPage) {
-    lastPageBtn.classList.add('hidden');
-  }
-  if (currentPage < totalPage) {
-    lastPageBtn.classList.remove('hidden');
-  }
-}
+//   if (currentPage > 1) {
+//     firstPageBtn.classList.remove("hidden");
+//   }
+//   if (currentPage === totalPage) {
+//     lastPageBtn.classList.add("hidden");
+//   }
+//   if (currentPage < totalPage) {
+//     lastPageBtn.classList.remove("hidden");
+//   }
+// }
 
 function createArrayOfNumbers(start, end) {
   let arrayOfNumbers = [];
@@ -178,14 +197,14 @@ function renderFilms(films) {
      
     </div>`;
     })
-    .join('');
-  gallery.innerHTML = '';
-  gallery.insertAdjacentHTML('beforeend', markup);
+    .join("");
+  gallery.innerHTML = "";
+  gallery.insertAdjacentHTML("beforeend", markup);
 }
 
 function showEmptyResult() {
   gallery.insertAdjacentHTML(
-    'beforeend',
+    "beforeend",
     `<p class="bad-search-result">Sorry, we don't find nothing!</p>`
   );
 }

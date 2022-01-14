@@ -206,3 +206,7 @@ p {
 .pagination-first-button {
   width: 90px;
 }
+
+.tui-page-btn {
+  background-color: #fff;
+}
