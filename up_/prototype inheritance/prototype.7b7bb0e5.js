@@ -142,12 +142,12 @@
       this[globalName] = mainExports;
     }
   }
-})({"8V0yU":[function(require,module,exports) {
+})({"iFNDk":[function(require,module,exports) {
 var HMR_HOST = null;
 var HMR_PORT = null;
 var HMR_SECURE = false;
 var HMR_ENV_HASH = "4a236f9275d0a351";
-module.bundle.HMR_BUNDLE_ID = "fd4a85d656d69242";
+module.bundle.HMR_BUNDLE_ID = "d4510e347b7bb0e5";
 "use strict";
 function _toConsumableArray(arr) {
     return _arrayWithoutHoles(arr) || _iterableToArray(arr) || _unsupportedIterableToArray(arr) || _nonIterableSpread();
@@ -518,18 +518,214 @@ function hmrAcceptRun(bundle, id) {
     acceptedAssets[id] = true;
 }
 
-},{}],"gg9xv":[function(require,module,exports) {
-var _fetchMovie = require("./fetchMovie");
-const containerBody = document.querySelector('.container-body');
-containerBody.addEventListener('click', getMovieIDByClick);
-function getMovieIDByClick(e) {
-    if (e.target.nodeName !== 'IMG') return;
-    let movieID = Number(e.target.id);
-    _fetchMovie.fetchMovieById(movieID);
+},{}],"cFnZg":[function(require,module,exports) {
+var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
+// let num = "33123212399999999912312356664544232223423266677";
+// function findLuckyNum(num) {
+//   num = [...num];
+//   let res = {};
+//   for (let i = 0; i < num.length; i += 1) {
+//     if (res[num[i]]) {
+//       res[num[i]] += 1;
+//     } else {
+//       res[num[i]] = 1;
+//     }
+//   }
+//   let result = 0;
+//   console.log(res);
+//   for (let key in res) {
+//     if (res[key] == key) {
+//       console.log(result, key);
+//       result = Math.max(result, key);
+//     }
+//   }
+//   return result;
+// }
+// console.log(findLuckyNum(num));
+// ======================================
+// const user = {};
+// user.name = "Anton";
+// user.sureName = "Ptashynskyi";
+// user.name = "Pete";
+// delete user.name;
+// console.log(user);
+// function isEmpty(obj) {
+//   for (let key in obj) {
+//     return false;
+//   }
+//   return true;
+// }
+// let salaries = {
+//   John: 100,
+//   Ann: 160,
+//   Pete: 130,
+// };
+// ======================================
+// function sumSalaries(obj) {
+//   let sum = 0;
+//   for (let key in obj) {
+//     sum += obj[key];
+//   }
+//   return sum;
+// }
+// console.log(sumSalaries(salaries));
+// ======================================
+// let menu = {
+//   width: 200,
+//   height: 300,
+//   title: "My menu",
+// };
+// console.log(menu);
+// function multiplyNumeric(obj) {
+//   for (let key in obj) {
+//     let a = obj[key];
+//     if (typeof a == "number") {
+//       obj[key] *= 2;
+//     }
+//   }
+// }
+// multiplyNumeric(menu);
+// console.log(menu);
+// ======================================
+var _prototype = require("./prototype");
+var _prototypeDefault = parcelHelpers.interopDefault(_prototype);
+const string = "Hello world";
+console.log(_prototypeDefault.default);
+
+},{"./prototype":"lg1db","@parcel/transformer-js/src/esmodule-helpers.js":"ciiiV"}],"lg1db":[function(require,module,exports) {
+var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
+parcelHelpers.defineInteropFlag(exports);
+parcelHelpers.export(exports, "stringToUpperCase", ()=>stringToUpperCase
+);
+parcelHelpers.export(exports, "getDate", ()=>getDate
+);
+const user = {
+    login: "NAME",
+    avatar: "",
+    isAdmin: false,
+    search () {
+        this.searching = true;
+    }
+};
+const admin = Object.create(user);
+admin.isAdmin = true;
+// методы animal
+let animal = {
+    eats: true,
+    name: "animal",
+    walk () {
+        if (!this.isSleeping) alert(`I walk`);
+    },
+    sleep () {
+        this.isSleeping = true;
+    },
+    setName (newName) {
+        this.name = newName;
+    }
+};
+let rabbit = {
+    jumps: true,
+    name: "White Rabbit",
+    __proto__: animal
+};
+// модифицирует rabbit.isSleeping
+rabbit.sleep();
+animal.sleep();
+rabbit.name = "Big rabbit";
+// console.log(rabbit.isSleeping);
+// console.log(animal.isSleeping);
+// console.log(rabbit.name);
+// console.log(animal.name);
+// animal.setName("Животное");
+// console.log(animal.name);
+// console.log(rabbit.name);
+// rabbit.setName("Кролик");
+// console.log(rabbit.name);
+// console.log(Object.keys(rabbit));
+// for (const prop in rabbit) {
+//   if (!rabbit.hasOwnProperty(prop)) {
+//     return;
+//   }
+//   console.log(prop);
+// }
+// console.log("rabbit", Object.keys(rabbit));
+// console.log("animal", Object.keys(animal));
+let head = {
+    glasses: 1
+};
+let table = {
+    pen: 3,
+    __proto__: head
+};
+let bed = {
+    sheet: 1,
+    pillow: 2,
+    __proto__: table
+};
+let pockets = {
+    money: 2000,
+    __proto__: bed
+};
+function stringToUpperCase(string) {
+    return string.split("").reduce((acc, item, i)=>{
+        if (item[i] === item[0]) return acc += item.toUpperCase();
+        return acc += item;
+    }, []);
 }
-function renderModal(params) {
+// export { stringToUpperCase };
+// console.log(stringToUpperCase("hello world"));
+const marks = [
+    20,
+    40,
+    50,
+    60,
+    10,
+    9
+];
+function findMax(arr) {
+    return Math.max(...arr);
+}
+function findMin(arr) {
+    return Math.min(...arr);
+}
+function toUpper(str) {
+    return str.toUpperCase();
+}
+exports.default = toUpper;
+function getDate() {
+    console.log(Date.now);
 }
 
-},{"./fetchMovie":"7f0A9"}]},["8V0yU","gg9xv"], "gg9xv", "parcelRequire599d")
+},{"@parcel/transformer-js/src/esmodule-helpers.js":"ciiiV"}],"ciiiV":[function(require,module,exports) {
+exports.interopDefault = function(a) {
+    return a && a.__esModule ? a : {
+        default: a
+    };
+};
+exports.defineInteropFlag = function(a) {
+    Object.defineProperty(a, '__esModule', {
+        value: true
+    });
+};
+exports.exportAll = function(source, dest) {
+    Object.keys(source).forEach(function(key) {
+        if (key === 'default' || key === '__esModule' || dest.hasOwnProperty(key)) return;
+        Object.defineProperty(dest, key, {
+            enumerable: true,
+            get: function() {
+                return source[key];
+            }
+        });
+    });
+    return dest;
+};
+exports.export = function(dest, destName, get) {
+    Object.defineProperty(dest, destName, {
+        enumerable: true,
+        get: get
+    });
+};
 
-//# sourceMappingURL=movie.56d69242.js.map
+},{}]},["iFNDk","cFnZg"], "cFnZg", "parcelRequire599d")
+
+//# sourceMappingURL=prototype.7b7bb0e5.js.map

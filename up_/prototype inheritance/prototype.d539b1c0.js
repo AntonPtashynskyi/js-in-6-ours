@@ -1,0 +1,2 @@
+const e={login:"NAME",avatar:"",isAdmin:!1,search(){this.searching=!0}};Object.create(e).isAdmin=!0;let a={eats:!0,name:"animal",walk(){this.isSleeping||alert("I walk")},sleep(){this.isSleeping=!0},setName(e){this.name=e}},i={jumps:!0,name:"White Rabbit",__proto__:a};i.sleep(),a.sleep(),i.name="Big rabbit";console.log((function(e){return e.toUpperCase()}));
+//# sourceMappingURL=prototype.d539b1c0.js.map
